@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "original_run": "/mnt/c/Users/\u738b\u653f\u5091/\u4e2d\u8077\u6578\u5287\u7af6\u8cfd/training_outputs/20261008_230121_332186",
+  "weighted_run": "/mnt/c/Users/\u738b\u653f\u5091/\u4e2d\u8077\u6578\u5287\u7af6\u8cfd/training_outputs/20261008_230121_332186/weighted_comparison_20261008_232403_903492",
+  "training_seed": 42,
+  "bootstrap_seed": 42,
+  "bootstrap_replicates": 2000,
+  "bootstrap_unit": "validation player ID; all years/cases retained, models fixed",
+  "ci": "paired percentile 95%, unadjusted, delta full minus comparator",
+  "warning": "Exploratory reused validation, not a final future/unseen-player test",
+  "completed_at_utc": "2026-10-08T15:49:57.928965+00:00"
+}

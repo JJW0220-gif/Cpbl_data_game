@@ -1,0 +1,3 @@
+﻿year,role,player_id,player_name,level,issue,season_games,log_games,included,detail
+2023,pitcher,2NNQf,張梓軒,minor,season_game_count_mismatch,31,30,True,Using available role-specific game logs
+2025,pitcher,1KPap,曾家輝,minor,season_game_count_mismatch,16,15,True,Using available role-specific game logs

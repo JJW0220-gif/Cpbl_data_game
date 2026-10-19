@@ -1,0 +1,3168 @@
+{
+  "status": "failed",
+  "source_csv": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/all_pitcher_same_season.csv",
+  "started_at_utc": "2026-10-08T12:52:18.051536+00:00",
+  "requested_player_seasons": 718,
+  "completed_player_seasons": 225,
+  "definition": "consecutive appearance-level segments; not registration dates",
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0ILWC/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0ILWC.json",
+      "fetched_at_utc": "2026-10-08T12:52:20.393917+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0ILWC/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0ILWC.json",
+      "fetched_at_utc": "2026-10-08T12:52:21.429586+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0et8r.json",
+      "fetched_at_utc": "2026-10-08T12:52:21.345671+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0et8r.json",
+      "fetched_at_utc": "2026-10-08T12:52:22.977375+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2B6yo/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_2B6yo.json",
+      "fetched_at_utc": "2026-10-08T12:52:24.135516+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2B6yo/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_2B6yo.json",
+      "fetched_at_utc": "2026-10-08T12:52:25.957974+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2erzs/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_2erzs.json",
+      "fetched_at_utc": "2026-10-08T12:52:27.154604+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2erzs/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_2erzs.json",
+      "fetched_at_utc": "2026-10-08T12:52:29.872291+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_32PTc.json",
+      "fetched_at_utc": "2026-10-08T12:52:34.702431+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_32PTc.json",
+      "fetched_at_utc": "2026-10-08T12:52:38.110405+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T12:52:38.930671+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T12:52:41.074754+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3sabs/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_3sabs.json",
+      "fetched_at_utc": "2026-10-08T12:52:42.322332+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3sabs/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_3sabs.json",
+      "fetched_at_utc": "2026-10-08T12:52:43.448637+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/40qAx/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_40qAx.json",
+      "fetched_at_utc": "2026-10-08T12:52:45.714526+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/40qAx/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_40qAx.json",
+      "fetched_at_utc": "2026-10-08T12:52:47.076497+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_4EOym.json",
+      "fetched_at_utc": "2026-10-08T12:52:48.603384+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_4EOym.json",
+      "fetched_at_utc": "2026-10-08T12:52:50.228941+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4Wgxf/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_4Wgxf.json",
+      "fetched_at_utc": "2026-10-08T12:52:51.153258+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4Wgxf/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_4Wgxf.json",
+      "fetched_at_utc": "2026-10-08T12:52:50.199482+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5RDHC/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_5RDHC.json",
+      "fetched_at_utc": "2026-10-08T12:52:52.114426+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5RDHC/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_5RDHC.json",
+      "fetched_at_utc": "2026-10-08T12:52:56.301268+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T12:52:57.037253+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T12:52:58.496736+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5elSB/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_5elSB.json",
+      "fetched_at_utc": "2026-10-08T12:53:00.559825+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5elSB/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_5elSB.json",
+      "fetched_at_utc": "2026-10-08T12:53:01.837674+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7RFVr/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_7RFVr.json",
+      "fetched_at_utc": "2026-10-08T12:53:03.697361+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7RFVr/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_7RFVr.json",
+      "fetched_at_utc": "2026-10-08T12:53:04.946827+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/81hMI/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_81hMI.json",
+      "fetched_at_utc": "2026-10-08T12:53:06.970079+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/81hMI/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_81hMI.json",
+      "fetched_at_utc": "2026-10-08T12:53:07.848950+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8En1C/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_8En1C.json",
+      "fetched_at_utc": "2026-10-08T12:53:09.654198+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8En1C/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_8En1C.json",
+      "fetched_at_utc": "2026-10-08T12:53:10.795844+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8llux/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_8llux.json",
+      "fetched_at_utc": "2026-10-08T12:53:12.389671+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8llux/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_8llux.json",
+      "fetched_at_utc": "2026-10-08T12:53:14.608175+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/A7z16/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_A7z16.json",
+      "fetched_at_utc": "2026-10-08T12:53:15.686421+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/A7z16/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_A7z16.json",
+      "fetched_at_utc": "2026-10-08T12:53:16.932822+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T12:53:18.440931+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T12:53:20.391473+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BX0ND/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_BX0ND.json",
+      "fetched_at_utc": "2026-10-08T12:53:21.768552+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BX0ND/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_BX0ND.json",
+      "fetched_at_utc": "2026-10-08T12:53:21.408852+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T12:53:22.172780+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T12:53:25.264066+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CvkZv/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_CvkZv.json",
+      "fetched_at_utc": "2026-10-08T12:53:26.030327+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CvkZv/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_CvkZv.json",
+      "fetched_at_utc": "2026-10-08T12:53:27.774019+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T12:53:29.516468+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T12:53:31.003006+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DdcwZ/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_DdcwZ.json",
+      "fetched_at_utc": "2026-10-08T12:53:32.089364+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DdcwZ/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_DdcwZ.json",
+      "fetched_at_utc": "2026-10-08T12:53:34.293684+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DogqI/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_DogqI.json",
+      "fetched_at_utc": "2026-10-08T12:53:35.161256+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DogqI/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_DogqI.json",
+      "fetched_at_utc": "2026-10-08T12:53:36.968457+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ehmuj/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_Ehmuj.json",
+      "fetched_at_utc": "2026-10-08T12:53:38.411244+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ehmuj/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_Ehmuj.json",
+      "fetched_at_utc": "2026-10-08T12:53:39.899568+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EsmS7/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_EsmS7.json",
+      "fetched_at_utc": "2026-10-08T12:53:41.014193+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EsmS7/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_EsmS7.json",
+      "fetched_at_utc": "2026-10-08T12:53:43.701083+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_FEwny.json",
+      "fetched_at_utc": "2026-10-08T12:53:44.654309+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_FEwny.json",
+      "fetched_at_utc": "2026-10-08T12:53:46.907098+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FUROT/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_FUROT.json",
+      "fetched_at_utc": "2026-10-08T12:53:47.947142+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FUROT/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_FUROT.json",
+      "fetched_at_utc": "2026-10-08T12:53:49.556823+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FreKs/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_FreKs.json",
+      "fetched_at_utc": "2026-10-08T12:53:50.529226+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FreKs/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_FreKs.json",
+      "fetched_at_utc": "2026-10-08T12:53:50.783204+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/G2rhE/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_G2rhE.json",
+      "fetched_at_utc": "2026-10-08T12:53:51.444456+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/G2rhE/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_G2rhE.json",
+      "fetched_at_utc": "2026-10-08T12:53:52.946846+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/GfanT/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_GfanT.json",
+      "fetched_at_utc": "2026-10-08T12:53:55.069308+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/GfanT/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_GfanT.json",
+      "fetched_at_utc": "2026-10-08T12:53:56.215376+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Hxbrc/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_Hxbrc.json",
+      "fetched_at_utc": "2026-10-08T12:53:57.359523+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Hxbrc/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_Hxbrc.json",
+      "fetched_at_utc": "2026-10-08T12:54:01.632009+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/IvH3O/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_IvH3O.json",
+      "fetched_at_utc": "2026-10-08T12:54:02.544721+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/IvH3O/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_IvH3O.json",
+      "fetched_at_utc": "2026-10-08T12:54:04.043679+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4Ca0/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_J4Ca0.json",
+      "fetched_at_utc": "2026-10-08T12:54:05.479330+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4Ca0/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_J4Ca0.json",
+      "fetched_at_utc": "2026-10-08T12:54:08.225185+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4GsF/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_J4GsF.json",
+      "fetched_at_utc": "2026-10-08T12:54:08.870352+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4GsF/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_J4GsF.json",
+      "fetched_at_utc": "2026-10-08T12:54:10.612900+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/JYGnI/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_JYGnI.json",
+      "fetched_at_utc": "2026-10-08T12:54:12.205467+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/JYGnI/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_JYGnI.json",
+      "fetched_at_utc": "2026-10-08T12:54:13.317482+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/KllvJ/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_KllvJ.json",
+      "fetched_at_utc": "2026-10-08T12:54:15.051914+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/KllvJ/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_KllvJ.json",
+      "fetched_at_utc": "2026-10-08T12:54:17.689003+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NiLDB/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_NiLDB.json",
+      "fetched_at_utc": "2026-10-08T12:54:19.053133+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NiLDB/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_NiLDB.json",
+      "fetched_at_utc": "2026-10-08T12:54:20.115245+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NjTQu/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_NjTQu.json",
+      "fetched_at_utc": "2026-10-08T12:54:22.003778+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NjTQu/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_NjTQu.json",
+      "fetched_at_utc": "2026-10-08T12:54:22.883523+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Osr68/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_Osr68.json",
+      "fetched_at_utc": "2026-10-08T12:54:22.530698+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Osr68/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_Osr68.json",
+      "fetched_at_utc": "2026-10-08T12:54:24.052137+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/PNg5H/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_PNg5H.json",
+      "fetched_at_utc": "2026-10-08T12:54:25.187733+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/PNg5H/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_PNg5H.json",
+      "fetched_at_utc": "2026-10-08T12:54:26.967511+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Qy3ep/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_Qy3ep.json",
+      "fetched_at_utc": "2026-10-08T12:54:28.423804+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Qy3ep/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_Qy3ep.json",
+      "fetched_at_utc": "2026-10-08T12:54:30.172224+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/TSc2s/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_TSc2s.json",
+      "fetched_at_utc": "2026-10-08T12:54:31.936909+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/TSc2s/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_TSc2s.json",
+      "fetched_at_utc": "2026-10-08T12:54:33.222464+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UQibF/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_UQibF.json",
+      "fetched_at_utc": "2026-10-08T12:54:34.879447+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UQibF/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_UQibF.json",
+      "fetched_at_utc": "2026-10-08T12:54:36.119675+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UWcl0/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_UWcl0.json",
+      "fetched_at_utc": "2026-10-08T12:54:37.638050+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UWcl0/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_UWcl0.json",
+      "fetched_at_utc": "2026-10-08T12:54:39.426116+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/aXbhb/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_aXbhb.json",
+      "fetched_at_utc": "2026-10-08T12:54:40.861854+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/aXbhb/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_aXbhb.json",
+      "fetched_at_utc": "2026-10-08T12:54:43.354622+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/afk2Y/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_afk2Y.json",
+      "fetched_at_utc": "2026-10-08T12:54:43.889622+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/afk2Y/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_afk2Y.json",
+      "fetched_at_utc": "2026-10-08T12:54:53.223371+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b37yK/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_b37yK.json",
+      "fetched_at_utc": "2026-10-08T12:54:52.424722+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b37yK/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_b37yK.json",
+      "fetched_at_utc": "2026-10-08T12:54:53.599209+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b76lK/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_b76lK.json",
+      "fetched_at_utc": "2026-10-08T12:54:55.187820+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b76lK/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_b76lK.json",
+      "fetched_at_utc": "2026-10-08T12:54:56.267216+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/bsXGT/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_bsXGT.json",
+      "fetched_at_utc": "2026-10-08T12:54:58.371006+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/bsXGT/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_bsXGT.json",
+      "fetched_at_utc": "2026-10-08T12:54:59.942038+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ccFMN/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_ccFMN.json",
+      "fetched_at_utc": "2026-10-08T12:55:00.639408+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ccFMN/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_ccFMN.json",
+      "fetched_at_utc": "2026-10-08T12:55:03.116120+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dOLyx/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_dOLyx.json",
+      "fetched_at_utc": "2026-10-08T12:55:04.742760+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dOLyx/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_dOLyx.json",
+      "fetched_at_utc": "2026-10-08T12:55:05.543368+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dqIZr/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_dqIZr.json",
+      "fetched_at_utc": "2026-10-08T12:55:07.249741+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dqIZr/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_dqIZr.json",
+      "fetched_at_utc": "2026-10-08T12:55:09.309155+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/eOCKK/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_eOCKK.json",
+      "fetched_at_utc": "2026-10-08T12:55:10.234258+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/eOCKK/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_eOCKK.json",
+      "fetched_at_utc": "2026-10-08T12:55:11.639757+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fau7B/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_fau7B.json",
+      "fetched_at_utc": "2026-10-08T12:55:13.532325+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fau7B/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_fau7B.json",
+      "fetched_at_utc": "2026-10-08T12:55:14.454913+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gljYV/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_gljYV.json",
+      "fetched_at_utc": "2026-10-08T12:55:16.707217+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gljYV/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_gljYV.json",
+      "fetched_at_utc": "2026-10-08T12:55:18.081842+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/h2RM3/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_h2RM3.json",
+      "fetched_at_utc": "2026-10-08T12:55:19.068617+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/h2RM3/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_h2RM3.json",
+      "fetched_at_utc": "2026-10-08T12:55:21.507822+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hMmIn/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_hMmIn.json",
+      "fetched_at_utc": "2026-10-08T12:55:22.284867+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hMmIn/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_hMmIn.json",
+      "fetched_at_utc": "2026-10-08T12:55:22.495499+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hlUTy/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_hlUTy.json",
+      "fetched_at_utc": "2026-10-08T12:55:23.646591+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hlUTy/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_hlUTy.json",
+      "fetched_at_utc": "2026-10-08T12:55:24.878122+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ieceO/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_ieceO.json",
+      "fetched_at_utc": "2026-10-08T12:55:26.609539+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ieceO/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_ieceO.json",
+      "fetched_at_utc": "2026-10-08T12:55:28.407985+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/k1NGO/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_k1NGO.json",
+      "fetched_at_utc": "2026-10-08T12:55:29.035621+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/k1NGO/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_k1NGO.json",
+      "fetched_at_utc": "2026-10-08T12:55:31.133748+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/khuNH/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_khuNH.json",
+      "fetched_at_utc": "2026-10-08T12:55:32.841509+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/khuNH/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_khuNH.json",
+      "fetched_at_utc": "2026-10-08T12:55:34.361408+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/l0v0/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_l0v0.json",
+      "fetched_at_utc": "2026-10-08T12:55:35.942714+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/l0v0/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_l0v0.json",
+      "fetched_at_utc": "2026-10-08T12:55:37.018340+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mTPOn/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_mTPOn.json",
+      "fetched_at_utc": "2026-10-08T12:55:38.747881+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mTPOn/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_mTPOn.json",
+      "fetched_at_utc": "2026-10-08T12:55:40.120820+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/n6fv0/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_n6fv0.json",
+      "fetched_at_utc": "2026-10-08T12:55:41.724659+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/n6fv0/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_n6fv0.json",
+      "fetched_at_utc": "2026-10-08T12:55:43.067608+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nI8wX/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_nI8wX.json",
+      "fetched_at_utc": "2026-10-08T12:55:44.785874+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nI8wX/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_nI8wX.json",
+      "fetched_at_utc": "2026-10-08T12:55:47.182280+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nJU3T/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_nJU3T.json",
+      "fetched_at_utc": "2026-10-08T12:55:47.911093+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nJU3T/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_nJU3T.json",
+      "fetched_at_utc": "2026-10-08T12:55:49.626375+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/oRak7/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_oRak7.json",
+      "fetched_at_utc": "2026-10-08T12:55:51.619822+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/oRak7/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_oRak7.json",
+      "fetched_at_utc": "2026-10-08T12:55:52.663267+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qA0h3/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_qA0h3.json",
+      "fetched_at_utc": "2026-10-08T12:55:54.341458+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qA0h3/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_qA0h3.json",
+      "fetched_at_utc": "2026-10-08T12:55:53.916430+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qOMcN/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_qOMcN.json",
+      "fetched_at_utc": "2026-10-08T12:55:54.648253+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qOMcN/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_qOMcN.json",
+      "fetched_at_utc": "2026-10-08T12:55:56.975855+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qZ6gm/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_qZ6gm.json",
+      "fetched_at_utc": "2026-10-08T12:55:58.031266+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qZ6gm/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_qZ6gm.json",
+      "fetched_at_utc": "2026-10-08T12:55:59.226016+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qn7op/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_qn7op.json",
+      "fetched_at_utc": "2026-10-08T12:56:01.401918+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qn7op/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_qn7op.json",
+      "fetched_at_utc": "2026-10-08T12:56:02.465947+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rdO1R/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_rdO1R.json",
+      "fetched_at_utc": "2026-10-08T12:56:03.654900+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rdO1R/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_rdO1R.json",
+      "fetched_at_utc": "2026-10-08T12:56:05.926919+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rxmjz/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_rxmjz.json",
+      "fetched_at_utc": "2026-10-08T12:56:07.440502+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rxmjz/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_rxmjz.json",
+      "fetched_at_utc": "2026-10-08T12:56:08.407440+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ryeQU/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_ryeQU.json",
+      "fetched_at_utc": "2026-10-08T12:56:09.943100+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ryeQU/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_ryeQU.json",
+      "fetched_at_utc": "2026-10-08T12:56:11.901071+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/sGfcd/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_sGfcd.json",
+      "fetched_at_utc": "2026-10-08T12:56:12.804511+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/sGfcd/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_sGfcd.json",
+      "fetched_at_utc": "2026-10-08T12:56:15.153794+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/tGmgw/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_tGmgw.json",
+      "fetched_at_utc": "2026-10-08T12:56:16.742583+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/tGmgw/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_tGmgw.json",
+      "fetched_at_utc": "2026-10-08T12:56:17.500770+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uQ1IP/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_uQ1IP.json",
+      "fetched_at_utc": "2026-10-08T12:56:19.065892+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uQ1IP/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_uQ1IP.json",
+      "fetched_at_utc": "2026-10-08T12:56:20.690407+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uwD1Z/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_uwD1Z.json",
+      "fetched_at_utc": "2026-10-08T12:56:22.430769+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uwD1Z/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_uwD1Z.json",
+      "fetched_at_utc": "2026-10-08T12:56:24.075917+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/vY7S/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_vY7S.json",
+      "fetched_at_utc": "2026-10-08T12:56:23.000312+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/vY7S/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_vY7S.json",
+      "fetched_at_utc": "2026-10-08T12:56:25.125355+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wftNn/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_wftNn.json",
+      "fetched_at_utc": "2026-10-08T12:56:26.080849+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wftNn/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_wftNn.json",
+      "fetched_at_utc": "2026-10-08T12:56:27.463602+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wjF8n/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_wjF8n.json",
+      "fetched_at_utc": "2026-10-08T12:56:29.406194+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wjF8n/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_wjF8n.json",
+      "fetched_at_utc": "2026-10-08T12:56:31.312706+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y1fia/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_y1fia.json",
+      "fetched_at_utc": "2026-10-08T12:56:32.064565+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y1fia/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_y1fia.json",
+      "fetched_at_utc": "2026-10-08T12:56:34.304558+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHLe/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_yHLe.json",
+      "fetched_at_utc": "2026-10-08T12:56:35.306169+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHLe/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_yHLe.json",
+      "fetched_at_utc": "2026-10-08T12:56:36.625303+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yvYke/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_yvYke.json",
+      "fetched_at_utc": "2026-10-08T12:56:38.763194+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yvYke/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_yvYke.json",
+      "fetched_at_utc": "2026-10-08T12:56:39.863054+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zluej/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_zluej.json",
+      "fetched_at_utc": "2026-10-08T12:56:41.043545+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zluej/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_zluej.json",
+      "fetched_at_utc": "2026-10-08T12:56:43.636851+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zm0Ra/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_zm0Ra.json",
+      "fetched_at_utc": "2026-10-08T12:56:44.588059+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zm0Ra/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_zm0Ra.json",
+      "fetched_at_utc": "2026-10-08T12:56:45.771048+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_0et8r.json",
+      "fetched_at_utc": "2026-10-08T12:56:47.762990+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_0et8r.json",
+      "fetched_at_utc": "2026-10-08T12:56:49.028270+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2B6yo/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_2B6yo.json",
+      "fetched_at_utc": "2026-10-08T12:56:50.283271+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2B6yo/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_2B6yo.json",
+      "fetched_at_utc": "2026-10-08T12:56:52.587203+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2HOl/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_2HOl.json",
+      "fetched_at_utc": "2026-10-08T12:56:53.457907+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2HOl/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_2HOl.json",
+      "fetched_at_utc": "2026-10-08T12:56:54.833110+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_32PTc.json",
+      "fetched_at_utc": "2026-10-08T12:56:54.281142+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_32PTc.json",
+      "fetched_at_utc": "2026-10-08T12:56:56.365207+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T12:56:57.207864+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T12:56:59.415242+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_4EOym.json",
+      "fetched_at_utc": "2026-10-08T12:57:00.581697+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_4EOym.json",
+      "fetched_at_utc": "2026-10-08T12:57:01.999805+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4Wgxf/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_4Wgxf.json",
+      "fetched_at_utc": "2026-10-08T12:57:03.769677+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4Wgxf/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_4Wgxf.json",
+      "fetched_at_utc": "2026-10-08T12:57:04.923962+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T12:57:06.427604+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T12:57:07.950156+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7Qind/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_7Qind.json",
+      "fetched_at_utc": "2026-10-08T12:57:09.875159+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7Qind/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_7Qind.json",
+      "fetched_at_utc": "2026-10-08T12:57:10.671928+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SbFo/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_7SbFo.json",
+      "fetched_at_utc": "2026-10-08T12:57:12.685760+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SbFo/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_7SbFo.json",
+      "fetched_at_utc": "2026-10-08T12:57:14.387200+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8wmMR/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_8wmMR.json",
+      "fetched_at_utc": "2026-10-08T12:57:15.772895+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8wmMR/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_8wmMR.json",
+      "fetched_at_utc": "2026-10-08T12:57:17.237980+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8xTa7/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_8xTa7.json",
+      "fetched_at_utc": "2026-10-08T12:57:18.573168+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8xTa7/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_8xTa7.json",
+      "fetched_at_utc": "2026-10-08T12:57:21.346516+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T12:57:21.919336+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T12:57:24.010157+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BVeRB/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_BVeRB.json",
+      "fetched_at_utc": "2026-10-08T12:57:25.211176+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BVeRB/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_BVeRB.json",
+      "fetched_at_utc": "2026-10-08T12:57:24.714214+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BXV3r/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_BXV3r.json",
+      "fetched_at_utc": "2026-10-08T12:57:26.403428+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BXV3r/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_BXV3r.json",
+      "fetched_at_utc": "2026-10-08T12:57:27.719072+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BuAfc/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_BuAfc.json",
+      "fetched_at_utc": "2026-10-08T12:57:28.966305+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BuAfc/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_BuAfc.json",
+      "fetched_at_utc": "2026-10-08T12:57:30.665187+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T12:57:32.069909+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T12:57:34.062137+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/D2UQ/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_D2UQ.json",
+      "fetched_at_utc": "2026-10-08T12:57:35.897003+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/D2UQ/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_D2UQ.json",
+      "fetched_at_utc": "2026-10-08T12:57:37.129761+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T12:57:38.289662+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T12:57:40.174564+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EVN6/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_EVN6.json",
+      "fetched_at_utc": "2026-10-08T12:57:42.450086+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EVN6/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_EVN6.json",
+      "fetched_at_utc": "2026-10-08T12:57:43.148614+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_FEwny.json",
+      "fetched_at_utc": "2026-10-08T12:57:44.752714+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_FEwny.json",
+      "fetched_at_utc": "2026-10-08T12:57:47.253191+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FreKs/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_FreKs.json",
+      "fetched_at_utc": "2026-10-08T12:57:48.207051+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FreKs/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_FreKs.json",
+      "fetched_at_utc": "2026-10-08T12:57:49.981692+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FzsQT/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_FzsQT.json",
+      "fetched_at_utc": "2026-10-08T12:57:51.483248+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FzsQT/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_FzsQT.json",
+      "fetched_at_utc": "2026-10-08T12:57:52.337538+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/GfanT/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_GfanT.json",
+      "fetched_at_utc": "2026-10-08T12:57:54.337380+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/GfanT/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_GfanT.json",
+      "fetched_at_utc": "2026-10-08T12:57:55.510267+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Hxbrc/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Hxbrc.json",
+      "fetched_at_utc": "2026-10-08T12:57:54.847884+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Hxbrc/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Hxbrc.json",
+      "fetched_at_utc": "2026-10-08T12:57:57.466026+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/IvH3O/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_IvH3O.json",
+      "fetched_at_utc": "2026-10-08T12:57:58.390866+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/IvH3O/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_IvH3O.json",
+      "fetched_at_utc": "2026-10-08T12:57:59.718473+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4GsF/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_J4GsF.json",
+      "fetched_at_utc": "2026-10-08T12:58:01.324340+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/J4GsF/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_J4GsF.json",
+      "fetched_at_utc": "2026-10-08T12:58:03.158722+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/JYGnI/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_JYGnI.json",
+      "fetched_at_utc": "2026-10-08T12:58:04.595779+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/JYGnI/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_JYGnI.json",
+      "fetched_at_utc": "2026-10-08T12:58:05.991466+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/K1Dt/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_K1Dt.json",
+      "fetched_at_utc": "2026-10-08T12:58:07.425638+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/K1Dt/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_K1Dt.json",
+      "fetched_at_utc": "2026-10-08T12:58:08.612876+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/KPTzi/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_KPTzi.json",
+      "fetched_at_utc": "2026-10-08T12:58:10.645629+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/KPTzi/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_KPTzi.json",
+      "fetched_at_utc": "2026-10-08T12:58:12.692788+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/LVHD/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_LVHD.json",
+      "fetched_at_utc": "2026-10-08T12:58:13.780997+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/LVHD/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_LVHD.json",
+      "fetched_at_utc": "2026-10-08T12:58:15.009651+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/MSMcB/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_MSMcB.json",
+      "fetched_at_utc": "2026-10-08T12:58:16.571503+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/MSMcB/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_MSMcB.json",
+      "fetched_at_utc": "2026-10-08T12:58:18.511401+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/MYQFz/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_MYQFz.json",
+      "fetched_at_utc": "2026-10-08T12:58:20.013394+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/MYQFz/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_MYQFz.json",
+      "fetched_at_utc": "2026-10-08T12:58:21.157282+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/N1cPl/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_N1cPl.json",
+      "fetched_at_utc": "2026-10-08T12:58:22.321066+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/N1cPl/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_N1cPl.json",
+      "fetched_at_utc": "2026-10-08T12:58:24.848325+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NiqAD/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_NiqAD.json",
+      "fetched_at_utc": "2026-10-08T12:58:26.016723+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NiqAD/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_NiqAD.json",
+      "fetched_at_utc": "2026-10-08T12:58:25.129599+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NjTQu/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_NjTQu.json",
+      "fetched_at_utc": "2026-10-08T12:58:27.263603+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/NjTQu/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_NjTQu.json",
+      "fetched_at_utc": "2026-10-08T12:58:27.991839+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Oo3kC/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Oo3kC.json",
+      "fetched_at_utc": "2026-10-08T12:58:29.485829+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Oo3kC/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Oo3kC.json",
+      "fetched_at_utc": "2026-10-08T12:58:31.465709+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Osr68/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Osr68.json",
+      "fetched_at_utc": "2026-10-08T12:58:32.538501+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Osr68/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Osr68.json",
+      "fetched_at_utc": "2026-10-08T12:58:34.105636+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/PNg5H/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_PNg5H.json",
+      "fetched_at_utc": "2026-10-08T12:58:36.020976+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/PNg5H/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_PNg5H.json",
+      "fetched_at_utc": "2026-10-08T12:58:37.363193+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Q5oCF/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Q5oCF.json",
+      "fetched_at_utc": "2026-10-08T12:58:38.892184+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Q5oCF/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Q5oCF.json",
+      "fetched_at_utc": "2026-10-08T12:58:40.740947+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/QEU8/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_QEU8.json",
+      "fetched_at_utc": "2026-10-08T12:58:42.630520+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/QEU8/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_QEU8.json",
+      "fetched_at_utc": "2026-10-08T12:58:43.215142+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Qy3ep/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Qy3ep.json",
+      "fetched_at_utc": "2026-10-08T12:58:44.975951+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Qy3ep/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Qy3ep.json",
+      "fetched_at_utc": "2026-10-08T12:58:47.344174+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/SMK2K/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_SMK2K.json",
+      "fetched_at_utc": "2026-10-08T12:58:48.006038+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/SMK2K/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_SMK2K.json",
+      "fetched_at_utc": "2026-10-08T12:58:50.011171+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/TcTH/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_TcTH.json",
+      "fetched_at_utc": "2026-10-08T12:58:51.309723+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/TcTH/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_TcTH.json",
+      "fetched_at_utc": "2026-10-08T12:58:52.508047+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UWcl0/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_UWcl0.json",
+      "fetched_at_utc": "2026-10-08T12:58:54.586174+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UWcl0/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_UWcl0.json",
+      "fetched_at_utc": "2026-10-08T12:58:55.913013+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ubf2u/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Ubf2u.json",
+      "fetched_at_utc": "2026-10-08T12:58:55.068317+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ubf2u/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Ubf2u.json",
+      "fetched_at_utc": "2026-10-08T12:58:57.020658+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UtY4A/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_UtY4A.json",
+      "fetched_at_utc": "2026-10-08T12:58:58.099448+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/UtY4A/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_UtY4A.json",
+      "fetched_at_utc": "2026-10-08T12:58:59.892141+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/X1j6L/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_X1j6L.json",
+      "fetched_at_utc": "2026-10-08T12:59:01.519576+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/X1j6L/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_X1j6L.json",
+      "fetched_at_utc": "2026-10-08T12:59:02.823436+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/YKrjN/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_YKrjN.json",
+      "fetched_at_utc": "2026-10-08T12:59:04.033916+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/YKrjN/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_YKrjN.json",
+      "fetched_at_utc": "2026-10-08T12:59:07.129392+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ych1T/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Ych1T.json",
+      "fetched_at_utc": "2026-10-08T12:59:08.018739+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Ych1T/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Ych1T.json",
+      "fetched_at_utc": "2026-10-08T12:59:09.210591+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Yrx4m/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_Yrx4m.json",
+      "fetched_at_utc": "2026-10-08T12:59:11.250337+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Yrx4m/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_Yrx4m.json",
+      "fetched_at_utc": "2026-10-08T12:59:12.408832+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ZWWL/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_ZWWL.json",
+      "fetched_at_utc": "2026-10-08T12:59:13.839821+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ZWWL/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_ZWWL.json",
+      "fetched_at_utc": "2026-10-08T12:59:15.405484+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b37yK/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_b37yK.json",
+      "fetched_at_utc": "2026-10-08T12:59:17.105829+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/b37yK/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_b37yK.json",
+      "fetched_at_utc": "2026-10-08T12:59:18.914787+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/bNFyN/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_bNFyN.json",
+      "fetched_at_utc": "2026-10-08T12:59:20.095238+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/bNFyN/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_bNFyN.json",
+      "fetched_at_utc": "2026-10-08T12:59:22.137833+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dOLyx/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_dOLyx.json",
+      "fetched_at_utc": "2026-10-08T12:59:22.906046+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dOLyx/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_dOLyx.json",
+      "fetched_at_utc": "2026-10-08T12:59:25.162171+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dqIZr/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_dqIZr.json",
+      "fetched_at_utc": "2026-10-08T12:59:26.239478+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/dqIZr/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_dqIZr.json",
+      "fetched_at_utc": "2026-10-08T12:59:25.668242+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/eOCKK/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_eOCKK.json",
+      "fetched_at_utc": "2026-10-08T12:59:27.816381+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/eOCKK/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_eOCKK.json",
+      "fetched_at_utc": "2026-10-08T12:59:28.718516+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fMC7h/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_fMC7h.json",
+      "fetched_at_utc": "2026-10-08T12:59:30.062206+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fMC7h/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_fMC7h.json",
+      "fetched_at_utc": "2026-10-08T12:59:31.888841+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fau7B/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_fau7B.json",
+      "fetched_at_utc": "2026-10-08T12:59:33.272488+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fau7B/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_fau7B.json",
+      "fetched_at_utc": "2026-10-08T12:59:34.407643+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fmN1q/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_fmN1q.json",
+      "fetched_at_utc": "2026-10-08T12:59:36.277309+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/fmN1q/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_fmN1q.json",
+      "fetched_at_utc": "2026-10-08T12:59:38.230025+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gMO3e/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_gMO3e.json",
+      "fetched_at_utc": "2026-10-08T12:59:39.238391+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gMO3e/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_gMO3e.json",
+      "fetched_at_utc": "2026-10-08T12:59:40.918611+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gQcx/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_gQcx.json",
+      "fetched_at_utc": "2026-10-08T12:59:42.632079+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gQcx/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_gQcx.json",
+      "fetched_at_utc": "2026-10-08T12:59:43.693956+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gdEku/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_gdEku.json",
+      "fetched_at_utc": "2026-10-08T12:59:45.326261+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gdEku/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_gdEku.json",
+      "fetched_at_utc": "2026-10-08T12:59:47.056785+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/glhup/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_glhup.json",
+      "fetched_at_utc": "2026-10-08T12:59:48.914776+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/glhup/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_glhup.json",
+      "fetched_at_utc": "2026-10-08T12:59:50.403501+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gljYV/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_gljYV.json",
+      "fetched_at_utc": "2026-10-08T12:59:51.402030+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/gljYV/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_gljYV.json",
+      "fetched_at_utc": "2026-10-08T12:59:53.094819+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/h2RM3/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_h2RM3.json",
+      "fetched_at_utc": "2026-10-08T12:59:54.748687+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/h2RM3/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_h2RM3.json",
+      "fetched_at_utc": "2026-10-08T12:59:55.905391+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hMmIn/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_hMmIn.json",
+      "fetched_at_utc": "2026-10-08T12:59:55.288662+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hMmIn/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_hMmIn.json",
+      "fetched_at_utc": "2026-10-08T12:59:57.379793+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hlUTy/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_hlUTy.json",
+      "fetched_at_utc": "2026-10-08T12:59:58.934791+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/hlUTy/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_hlUTy.json",
+      "fetched_at_utc": "2026-10-08T12:59:59.704496+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/iF0vC/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_iF0vC.json",
+      "fetched_at_utc": "2026-10-08T13:00:01.940165+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/iF0vC/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_iF0vC.json",
+      "fetched_at_utc": "2026-10-08T13:00:03.179465+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ieceO/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_ieceO.json",
+      "fetched_at_utc": "2026-10-08T13:00:04.338424+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ieceO/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_ieceO.json",
+      "fetched_at_utc": "2026-10-08T13:00:07.213784+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/l0v0/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_l0v0.json",
+      "fetched_at_utc": "2026-10-08T13:00:08.640121+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/l0v0/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_l0v0.json",
+      "fetched_at_utc": "2026-10-08T13:00:10.069417+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/lEe40/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_lEe40.json",
+      "fetched_at_utc": "2026-10-08T13:00:11.024525+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/lEe40/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_lEe40.json",
+      "fetched_at_utc": "2026-10-08T13:00:13.513346+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/lyC1j/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_lyC1j.json",
+      "fetched_at_utc": "2026-10-08T13:00:14.076562+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/lyC1j/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_lyC1j.json",
+      "fetched_at_utc": "2026-10-08T13:00:16.739221+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mTPOn/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_mTPOn.json",
+      "fetched_at_utc": "2026-10-08T13:00:18.019300+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mTPOn/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_mTPOn.json",
+      "fetched_at_utc": "2026-10-08T13:00:25.656351+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mUETF/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_mUETF.json",
+      "fetched_at_utc": "2026-10-08T13:00:26.034069+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mUETF/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_mUETF.json",
+      "fetched_at_utc": "2026-10-08T13:00:27.129108+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mlpZo/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_mlpZo.json",
+      "fetched_at_utc": "2026-10-08T13:00:28.243614+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/mlpZo/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_mlpZo.json",
+      "fetched_at_utc": "2026-10-08T13:00:30.775613+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/n6fv0/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_n6fv0.json",
+      "fetched_at_utc": "2026-10-08T13:00:31.530682+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/n6fv0/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_n6fv0.json",
+      "fetched_at_utc": "2026-10-08T13:00:33.863854+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nI8wX/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_nI8wX.json",
+      "fetched_at_utc": "2026-10-08T13:00:35.035583+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nI8wX/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_nI8wX.json",
+      "fetched_at_utc": "2026-10-08T13:00:36.366388+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nJU3T/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_nJU3T.json",
+      "fetched_at_utc": "2026-10-08T13:00:37.660626+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/nJU3T/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_nJU3T.json",
+      "fetched_at_utc": "2026-10-08T13:00:39.868463+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/q8Pn8/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_q8Pn8.json",
+      "fetched_at_utc": "2026-10-08T13:00:41.228542+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/q8Pn8/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_q8Pn8.json",
+      "fetched_at_utc": "2026-10-08T13:00:42.708470+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qA0h3/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_qA0h3.json",
+      "fetched_at_utc": "2026-10-08T13:00:43.698957+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qA0h3/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_qA0h3.json",
+      "fetched_at_utc": "2026-10-08T13:00:46.453501+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qJRgp/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_qJRgp.json",
+      "fetched_at_utc": "2026-10-08T13:00:47.244243+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qJRgp/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_qJRgp.json",
+      "fetched_at_utc": "2026-10-08T13:00:48.938758+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qOMcN/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_qOMcN.json",
+      "fetched_at_utc": "2026-10-08T13:00:51.009288+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qOMcN/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_qOMcN.json",
+      "fetched_at_utc": "2026-10-08T13:00:51.671694+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qQixh/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_qQixh.json",
+      "fetched_at_utc": "2026-10-08T13:00:53.659572+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qQixh/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_qQixh.json",
+      "fetched_at_utc": "2026-10-08T13:00:56.075250+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qZ6gm/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_qZ6gm.json",
+      "fetched_at_utc": "2026-10-08T13:00:55.688429+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/qZ6gm/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_qZ6gm.json",
+      "fetched_at_utc": "2026-10-08T13:00:56.676157+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rdO1R/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_rdO1R.json",
+      "fetched_at_utc": "2026-10-08T13:00:57.990057+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rdO1R/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_rdO1R.json",
+      "fetched_at_utc": "2026-10-08T13:01:00.737467+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rxmjz/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_rxmjz.json",
+      "fetched_at_utc": "2026-10-08T13:01:02.098643+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/rxmjz/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_rxmjz.json",
+      "fetched_at_utc": "2026-10-08T13:01:03.365662+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ryeQU/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_ryeQU.json",
+      "fetched_at_utc": "2026-10-08T13:01:04.309578+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ryeQU/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_ryeQU.json",
+      "fetched_at_utc": "2026-10-08T13:01:06.727317+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/sGfcd/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_sGfcd.json",
+      "fetched_at_utc": "2026-10-08T13:01:07.552148+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/sGfcd/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_sGfcd.json",
+      "fetched_at_utc": "2026-10-08T13:01:09.207050+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/tKyxK/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_tKyxK.json",
+      "fetched_at_utc": "2026-10-08T13:01:11.072406+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/tKyxK/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_tKyxK.json",
+      "fetched_at_utc": "2026-10-08T13:01:13.149873+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uwD1Z/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_uwD1Z.json",
+      "fetched_at_utc": "2026-10-08T13:01:13.767208+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/uwD1Z/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_uwD1Z.json",
+      "fetched_at_utc": "2026-10-08T13:01:17.566150+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/v1Pw4/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_v1Pw4.json",
+      "fetched_at_utc": "2026-10-08T13:01:18.627145+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/v1Pw4/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_v1Pw4.json",
+      "fetched_at_utc": "2026-10-08T13:01:20.305786+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/vY7S/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_vY7S.json",
+      "fetched_at_utc": "2026-10-08T13:01:21.787739+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/vY7S/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_vY7S.json",
+      "fetched_at_utc": "2026-10-08T13:01:23.121279+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wddz5/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_wddz5.json",
+      "fetched_at_utc": "2026-10-08T13:01:24.712033+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wddz5/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_wddz5.json",
+      "fetched_at_utc": "2026-10-08T13:01:26.529339+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wjF8n/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_wjF8n.json",
+      "fetched_at_utc": "2026-10-08T13:01:27.556828+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wjF8n/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_wjF8n.json",
+      "fetched_at_utc": "2026-10-08T13:01:27.329507+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wmE1A/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_wmE1A.json",
+      "fetched_at_utc": "2026-10-08T13:01:27.936361+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/wmE1A/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_wmE1A.json",
+      "fetched_at_utc": "2026-10-08T13:01:31.137219+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/xlgRl/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_xlgRl.json",
+      "fetched_at_utc": "2026-10-08T13:01:32.317403+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/xlgRl/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_xlgRl.json",
+      "fetched_at_utc": "2026-10-08T13:01:33.619821+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y1fia/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_y1fia.json",
+      "fetched_at_utc": "2026-10-08T13:01:35.184280+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y1fia/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_y1fia.json",
+      "fetched_at_utc": "2026-10-08T13:01:36.409645+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y3VHg/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_y3VHg.json",
+      "fetched_at_utc": "2026-10-08T13:01:38.209989+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/y3VHg/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_y3VHg.json",
+      "fetched_at_utc": "2026-10-08T13:01:40.568316+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHLe/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_yHLe.json",
+      "fetched_at_utc": "2026-10-08T13:01:41.878652+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHLe/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_yHLe.json",
+      "fetched_at_utc": "2026-10-08T13:01:42.688286+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHfy/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_yHfy.json",
+      "fetched_at_utc": "2026-10-08T13:01:44.598453+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yHfy/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_yHfy.json",
+      "fetched_at_utc": "2026-10-08T13:01:47.044561+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ycAs1/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_ycAs1.json",
+      "fetched_at_utc": "2026-10-08T13:01:48.015796+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/ycAs1/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_ycAs1.json",
+      "fetched_at_utc": "2026-10-08T13:01:49.856691+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yhCr/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_yhCr.json",
+      "fetched_at_utc": "2026-10-08T13:01:51.556442+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yhCr/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_yhCr.json",
+      "fetched_at_utc": "2026-10-08T13:01:52.174117+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yvYke/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_yvYke.json",
+      "fetched_at_utc": "2026-10-08T13:01:54.271387+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/yvYke/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_yvYke.json",
+      "fetched_at_utc": "2026-10-08T13:01:55.678748+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zm0Ra/seasons/CPBLmi-2021-Vw/logs",
+      "raw_file": "raw/CPBLmi-2021-Vw_zm0Ra.json",
+      "fetched_at_utc": "2026-10-08T13:01:57.156644+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/zm0Ra/seasons/CPBL-2021-fi/logs",
+      "raw_file": "raw/CPBL-2021-fi_zm0Ra.json",
+      "fetched_at_utc": "2026-10-08T13:01:57.093075+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0ILWC/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_0ILWC.json",
+      "fetched_at_utc": "2026-10-08T13:01:58.065811+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0ILWC/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_0ILWC.json",
+      "fetched_at_utc": "2026-10-08T13:01:59.621786+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_0et8r.json",
+      "fetched_at_utc": "2026-10-08T13:02:01.668943+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0et8r/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_0et8r.json",
+      "fetched_at_utc": "2026-10-08T13:02:02.627636+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/1cFE3/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_1cFE3.json",
+      "fetched_at_utc": "2026-10-08T13:02:04.163286+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/1cFE3/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_1cFE3.json",
+      "fetched_at_utc": "2026-10-08T13:02:05.900271+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2NNQf/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_2NNQf.json",
+      "fetched_at_utc": "2026-10-08T13:02:07.911832+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2NNQf/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_2NNQf.json",
+      "fetched_at_utc": "2026-10-08T13:02:09.048428+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_32PTc.json",
+      "fetched_at_utc": "2026-10-08T13:02:10.588683+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/32PTc/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_32PTc.json",
+      "fetched_at_utc": "2026-10-08T13:02:12.346385+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T13:02:13.438999+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3Xh4g/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T13:02:16.894741+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3dTsm/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_3dTsm.json",
+      "fetched_at_utc": "2026-10-08T13:02:17.900748+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3dTsm/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_3dTsm.json",
+      "fetched_at_utc": "2026-10-08T13:02:19.851136+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/40qAx/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_40qAx.json",
+      "fetched_at_utc": "2026-10-08T13:02:21.106132+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/40qAx/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_40qAx.json",
+      "fetched_at_utc": "2026-10-08T13:02:24.006248+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_4EOym.json",
+      "fetched_at_utc": "2026-10-08T13:02:25.459974+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EOym/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_4EOym.json",
+      "fetched_at_utc": "2026-10-08T13:02:26.825687+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EUUY/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_4EUUY.json",
+      "fetched_at_utc": "2026-10-08T13:02:26.330445+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4EUUY/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_4EUUY.json",
+      "fetched_at_utc": "2026-10-08T13:02:27.761451+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4ICxk/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_4ICxk.json",
+      "fetched_at_utc": "2026-10-08T13:02:29.695973+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/4ICxk/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_4ICxk.json",
+      "fetched_at_utc": "2026-10-08T13:02:30.618672+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5RDHC/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_5RDHC.json",
+      "fetched_at_utc": "2026-10-08T13:02:32.636651+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5RDHC/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_5RDHC.json",
+      "fetched_at_utc": "2026-10-08T13:02:34.754101+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T13:02:35.832573+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/5ZFTZ/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T13:02:37.036175+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SbFo/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_7SbFo.json",
+      "fetched_at_utc": "2026-10-08T13:02:38.578153+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SbFo/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_7SbFo.json",
+      "fetched_at_utc": "2026-10-08T13:02:41.051314+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/81hMI/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_81hMI.json",
+      "fetched_at_utc": "2026-10-08T13:02:41.741404+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/81hMI/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_81hMI.json",
+      "fetched_at_utc": "2026-10-08T13:02:43.894168+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8wmMR/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_8wmMR.json",
+      "fetched_at_utc": "2026-10-08T13:02:45.333979+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8wmMR/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_8wmMR.json",
+      "fetched_at_utc": "2026-10-08T13:02:46.208320+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8xTa7/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_8xTa7.json",
+      "fetched_at_utc": "2026-10-08T13:02:48.526666+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8xTa7/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_8xTa7.json",
+      "fetched_at_utc": "2026-10-08T13:02:49.432824+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T13:02:51.357956+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Am8Uy/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T13:02:52.767143+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BVeRB/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_BVeRB.json",
+      "fetched_at_utc": "2026-10-08T13:02:53.992451+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BVeRB/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_BVeRB.json",
+      "fetched_at_utc": "2026-10-08T13:02:56.898647+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BX0ND/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_BX0ND.json",
+      "fetched_at_utc": "2026-10-08T13:02:58.074480+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BX0ND/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_BX0ND.json",
+      "fetched_at_utc": "2026-10-08T13:02:57.192556+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BXV3r/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_BXV3r.json",
+      "fetched_at_utc": "2026-10-08T13:02:59.559182+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/BXV3r/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_BXV3r.json",
+      "fetched_at_utc": "2026-10-08T13:03:00.504614+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Bq4t2/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_Bq4t2.json",
+      "fetched_at_utc": "2026-10-08T13:03:02.076956+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/Bq4t2/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_Bq4t2.json",
+      "fetched_at_utc": "2026-10-08T13:03:03.815898+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/C6A1j/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_C6A1j.json",
+      "fetched_at_utc": "2026-10-08T13:03:05.140181+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/C6A1j/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_C6A1j.json",
+      "fetched_at_utc": "2026-10-08T13:03:07.348367+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T13:03:08.576183+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CHGvV/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T13:03:10.541079+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CvkZv/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_CvkZv.json",
+      "fetched_at_utc": "2026-10-08T13:03:11.506071+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/CvkZv/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_CvkZv.json",
+      "fetched_at_utc": "2026-10-08T13:03:14.668564+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/D4Ioi/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_D4Ioi.json",
+      "fetched_at_utc": "2026-10-08T13:03:17.060189+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/D4Ioi/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_D4Ioi.json",
+      "fetched_at_utc": "2026-10-08T13:03:18.012497+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T13:03:20.571568+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/DXLDG/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T13:03:21.376877+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EIhcu/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_EIhcu.json",
+      "fetched_at_utc": "2026-10-08T13:03:23.120132+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EIhcu/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_EIhcu.json",
+      "fetched_at_utc": "2026-10-08T13:03:24.917185+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EON0l/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_EON0l.json",
+      "fetched_at_utc": "2026-10-08T13:03:25.923317+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EON0l/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_EON0l.json",
+      "fetched_at_utc": "2026-10-08T13:03:28.293558+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EbmCy/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_EbmCy.json",
+      "fetched_at_utc": "2026-10-08T13:03:28.855704+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EbmCy/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_EbmCy.json",
+      "fetched_at_utc": "2026-10-08T13:03:29.306667+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EmDR7/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_EmDR7.json",
+      "fetched_at_utc": "2026-10-08T13:03:30.468990+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EmDR7/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_EmDR7.json",
+      "fetched_at_utc": "2026-10-08T13:03:32.275241+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EsmS7/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_EsmS7.json",
+      "fetched_at_utc": "2026-10-08T13:03:33.890454+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/EsmS7/seasons/CPBL-2022-dG/logs",
+      "raw_file": "raw/CPBL-2022-dG_EsmS7.json",
+      "fetched_at_utc": "2026-10-08T13:03:35.978764+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBLmi-2022-C2/logs",
+      "raw_file": "raw/CPBLmi-2022-C2_FEwny.json",
+      "fetched_at_utc": "2026-10-08T13:03:37.261684+00:00",
+      "cached": false,
+      "cache_path": null
+    }
+  ],
+  "error": "Game count mismatch https://www.rebas.tw/api/formal/players/FEwny/seasons/CPBL-2022-dG/logs: expected 37, got 36"
+}

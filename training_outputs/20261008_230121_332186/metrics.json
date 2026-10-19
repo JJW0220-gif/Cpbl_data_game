@@ -1,0 +1,78 @@
+{
+  "major_AVG": {
+    "train_rows": 575,
+    "validation_rows": 145,
+    "undefined_train_targets": 7,
+    "undefined_validation_targets": 1,
+    "alpha": 1000.0,
+    "training_cv_MAE": 0.1281224798653686,
+    "validation": {
+      "MAE": 0.1359066326452221,
+      "RMSE": 0.18409182976232305,
+      "R2": -0.019572855214647022
+    },
+    "train_mean_baseline": {
+      "MAE": 0.1342748970305364,
+      "RMSE": 0.1831869342971378,
+      "R2": -0.009574156878485729
+    },
+    "out_of_range_predictions": 0
+  },
+  "major_OBP": {
+    "train_rows": 581,
+    "validation_rows": 146,
+    "undefined_train_targets": 1,
+    "undefined_validation_targets": 0,
+    "alpha": 1000.0,
+    "training_cv_MAE": 0.14354366262607413,
+    "validation": {
+      "MAE": 0.16044524161849869,
+      "RMSE": 0.21012948688047733,
+      "R2": -0.010589260761005637
+    },
+    "train_mean_baseline": {
+      "MAE": 0.1600694312063461,
+      "RMSE": 0.20981800789039243,
+      "R2": -0.007595449404447008
+    },
+    "out_of_range_predictions": 0
+  },
+  "major_SLG": {
+    "train_rows": 575,
+    "validation_rows": 145,
+    "undefined_train_targets": 7,
+    "undefined_validation_targets": 1,
+    "alpha": 1000.0,
+    "training_cv_MAE": 0.17695269531959995,
+    "validation": {
+      "MAE": 0.17632517368630363,
+      "RMSE": 0.2178038601103735,
+      "R2": -0.023508963716116993
+    },
+    "train_mean_baseline": {
+      "MAE": 0.17629744484632714,
+      "RMSE": 0.21803473631812148,
+      "R2": -0.025679991459169438
+    },
+    "out_of_range_predictions": 0
+  },
+  "major_HR_PA": {
+    "train_rows": 582,
+    "validation_rows": 146,
+    "undefined_train_targets": 0,
+    "undefined_validation_targets": 0,
+    "alpha": 0.01,
+    "training_cv_MAE": 0.010253821048279373,
+    "validation": {
+      "MAE": 0.009134828157371806,
+      "RMSE": 0.013355366739985044,
+      "R2": 0.0015189986135049072
+    },
+    "train_mean_baseline": {
+      "MAE": 0.009312138477097685,
+      "RMSE": 0.013454760432650726,
+      "R2": -0.013398151803463154
+    },
+    "out_of_range_predictions": 0
+  }
+}

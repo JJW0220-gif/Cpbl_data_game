@@ -1,0 +1,26 @@
+﻿year,role,player_id,player_name,level,issue,season_games,log_games,included,detail
+2020,batter,8J0xd,林靖凱,major,unresolved_batting_stats,109,,False,No batting box row for 8J0xd: https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/2XQgH
+2022,batter,eChCD,宋晟睿,major,unresolved_batting_stats,35,,False,No batting box row for eChCD: https://www.rebas.tw/api/seasons/CPBL-2022-dG/games/0nuHK
+2023,batter,1YOcf,李聖裕,major,unresolved_batting_stats,10,,False,No batting box row for 1YOcf: https://www.rebas.tw/api/seasons/CPBL-2023-sk/games/dESCg
+2023,batter,42OO1,黃韋盛,major,unresolved_batting_stats,47,,False,No batting box row for 42OO1: https://www.rebas.tw/api/seasons/CPBL-2023-sk/games/dESCg
+2023,batter,pAvtk,王順和,major,unresolved_batting_stats,8,,False,No batting box row for pAvtk: https://www.rebas.tw/api/seasons/CPBL-2023-sk/games/dESCg
+2024,batter,7pop6,曾傳昇,minor,unresolved_batting_stats,35,,False,No batting box row for 7pop6: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/PgLVt
+2024,batter,Excm5,楊祥禾,minor,unresolved_batting_stats,27,,False,No batting box row for Excm5: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/KfEZy
+2024,batter,GrjvL,陳飛霖,minor,unresolved_batting_stats,45,,False,No batting box row for GrjvL: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/KfEZy
+2024,batter,KFxfq,陳致嘉,minor,unresolved_batting_stats,39,,False,No batting box row for KFxfq: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/KfEZy
+2024,batter,m6tXZ,董秉軒,minor,unresolved_batting_stats,49,,False,No batting box row for m6tXZ: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/PgLVt
+2024,batter,narc8,黃劼希,minor,unresolved_batting_stats,34,,False,No batting box row for narc8: https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/games/KfEZy
+2025,batter,5PuU,孔念恩,major,unresolved_batting_stats,88,,False,No batting box row for 5PuU: https://www.rebas.tw/api/seasons/CPBL-2025-JO/games/mlpXQ
+2025,batter,AMRSK,游承勳,minor,unresolved_batting_stats,66,,False,No batting box row for AMRSK: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/yKRC8
+2025,batter,G8Yd1,黃秉揚,minor,unresolved_batting_stats,38,,False,No batting box row for G8Yd1: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/vWj5n
+2025,batter,Ob7KB,周委宏,minor,unresolved_batting_stats,59,,False,No batting box row for Ob7KB: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/4gz1w
+2025,batter,P4Fe3,陳統恩,minor,unresolved_batting_stats,23,,False,No batting box row for P4Fe3: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/4gz1w
+2025,batter,PtuDN,曾昱磬,minor,unresolved_batting_stats,18,,False,No batting box row for PtuDN: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/vWj5n
+2025,batter,WbnjG,李勛傑,minor,unresolved_batting_stats,17,,False,No batting box row for WbnjG: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/yKRC8
+2025,batter,iQmL8,馬鋼,minor,unresolved_batting_stats,44,,False,No batting box row for iQmL8: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/4gz1w
+2025,batter,jEljN,曾冠傑,minor,unresolved_batting_stats,47,,False,No batting box row for jEljN: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/yKRC8
+2025,batter,qLpqc,張趙紘,minor,unresolved_batting_stats,53,,False,No batting box row for qLpqc: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/yKRC8
+2025,batter,qgIhF,張祐嘉,minor,unresolved_batting_stats,43,,False,No batting box row for qgIhF: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/4gz1w
+2025,batter,ro4pL,陳愷佑,major,unresolved_batting_stats,20,,False,No batting box row for ro4pL: https://www.rebas.tw/api/seasons/CPBL-2025-JO/games/mlpXQ
+2025,batter,s6QQp,陳佳樂,minor,unresolved_batting_stats,56,,False,No batting box row for s6QQp: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/yKRC8
+2025,batter,vxQ8H,林威漢,minor,unresolved_batting_stats,55,,False,No batting box row for vxQ8H: https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/games/vWj5n

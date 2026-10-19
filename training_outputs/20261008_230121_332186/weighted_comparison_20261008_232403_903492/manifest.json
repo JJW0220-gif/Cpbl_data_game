@@ -1,0 +1,31 @@
+{
+  "status": "complete",
+  "source_run": "/mnt/c/Users/\u738b\u653f\u5091/\u4e2d\u8077\u6578\u5287\u7af6\u8cfd/training_outputs/20261008_230121_332186",
+  "split": "exact saved case-level 80/20",
+  "seed": 42,
+  "features": [
+    "minor_AVG",
+    "minor_OBP",
+    "minor_SLG",
+    "minor_OPS",
+    "minor_ISO",
+    "minor_K_pct",
+    "minor_BB_pct",
+    "minor_HR_PA",
+    "minor_HBP_PA",
+    "minor_Double_AB",
+    "minor_Triple_AB"
+  ],
+  "alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0
+  ],
+  "cv_selection": "training-only denominator-weighted pooled out-of-fold MAE",
+  "warning": "Exploratory validation comparison; repeated players may overlap",
+  "completed_at_utc": "2026-10-08T15:24:03.939903+00:00"
+}

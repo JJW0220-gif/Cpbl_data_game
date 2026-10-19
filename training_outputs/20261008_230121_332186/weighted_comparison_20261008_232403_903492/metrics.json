@@ -1,0 +1,136 @@
+{
+  "major_AVG": {
+    "train_rows": 575,
+    "validation_rows": 145,
+    "alpha": 100.0,
+    "scores": {
+      "equal_case_ridge": {
+        "MAE": 0.1359066326452221,
+        "RMSE": 0.18409182976232305,
+        "weighted_MAE": 0.08177670194362012,
+        "weighted_RMSE": 0.10108732665852523
+      },
+      "weighted_ridge": {
+        "MAE": 0.15146812097106727,
+        "RMSE": 0.19825641661193752,
+        "weighted_MAE": 0.06062834539269188,
+        "weighted_RMSE": 0.08534767821134034
+      },
+      "train_mean_baseline": {
+        "MAE": 0.1342748970305364,
+        "RMSE": 0.1831869342971378,
+        "weighted_MAE": 0.07918631970356849,
+        "weighted_RMSE": 0.09899363438589932
+      },
+      "weighted_train_mean_baseline": {
+        "MAE": 0.150733376296902,
+        "RMSE": 0.19833238806845718,
+        "weighted_MAE": 0.059445008010661014,
+        "weighted_RMSE": 0.08429678639424176
+      }
+    },
+    "out_of_range_weighted_predictions": 0
+  },
+  "major_OBP": {
+    "train_rows": 581,
+    "validation_rows": 146,
+    "alpha": 1000.0,
+    "scores": {
+      "equal_case_ridge": {
+        "MAE": 0.16044524161849869,
+        "RMSE": 0.21012948688047733,
+        "weighted_MAE": 0.08342931713731878,
+        "weighted_RMSE": 0.10792579219524809
+      },
+      "weighted_ridge": {
+        "MAE": 0.17260219394249776,
+        "RMSE": 0.223523701998755,
+        "weighted_MAE": 0.06438803485592033,
+        "weighted_RMSE": 0.09259233671833561
+      },
+      "train_mean_baseline": {
+        "MAE": 0.16006943120634606,
+        "RMSE": 0.20981800789039243,
+        "weighted_MAE": 0.08552494573440517,
+        "weighted_RMSE": 0.10747716061942973
+      },
+      "weighted_train_mean_baseline": {
+        "MAE": 0.17212603023650608,
+        "RMSE": 0.22350911466941117,
+        "weighted_MAE": 0.06278514653867832,
+        "weighted_RMSE": 0.09202717604219758
+      }
+    },
+    "out_of_range_weighted_predictions": 0
+  },
+  "major_SLG": {
+    "train_rows": 575,
+    "validation_rows": 145,
+    "alpha": 10.0,
+    "scores": {
+      "equal_case_ridge": {
+        "MAE": 0.17632517368630365,
+        "RMSE": 0.21780386011037353,
+        "weighted_MAE": 0.12990887370807858,
+        "weighted_RMSE": 0.16351087944308038
+      },
+      "weighted_ridge": {
+        "MAE": 0.20577745076919898,
+        "RMSE": 0.24869852262817796,
+        "weighted_MAE": 0.09977232198004371,
+        "weighted_RMSE": 0.13512155713514068
+      },
+      "train_mean_baseline": {
+        "MAE": 0.17629744484632714,
+        "RMSE": 0.21803473631812148,
+        "weighted_MAE": 0.133948798873922,
+        "weighted_RMSE": 0.1667627631085253
+      },
+      "weighted_train_mean_baseline": {
+        "MAE": 0.20613596063421818,
+        "RMSE": 0.24915904150306542,
+        "weighted_MAE": 0.10455933102038656,
+        "weighted_RMSE": 0.13722463531641485
+      }
+    },
+    "out_of_range_weighted_predictions": 0
+  },
+  "major_HR_PA": {
+    "train_rows": 582,
+    "validation_rows": 146,
+    "alpha": 1000.0,
+    "scores": {
+      "equal_case_ridge": {
+        "MAE": 0.009134828157371763,
+        "RMSE": 0.013355366739985025,
+        "weighted_MAE": 0.013124988005782611,
+        "weighted_RMSE": 0.01918194492070017
+      },
+      "weighted_ridge": {
+        "MAE": 0.012592643206813744,
+        "RMSE": 0.014666426674538938,
+        "weighted_MAE": 0.013018261753859086,
+        "weighted_RMSE": 0.01782665140679546
+      },
+      "train_mean_baseline": {
+        "MAE": 0.009312138477097665,
+        "RMSE": 0.013454760432650712,
+        "weighted_MAE": 0.013715464447999644,
+        "weighted_RMSE": 0.019868313851174452
+      },
+      "weighted_train_mean_baseline": {
+        "MAE": 0.012646856078686519,
+        "RMSE": 0.014760031125039047,
+        "weighted_MAE": 0.013506601415832533,
+        "weighted_RMSE": 0.01833200051581184
+      },
+      "zero_baseline": {
+        "MAE": 0.004897828407987597,
+        "RMSE": 0.014234672229725092,
+        "weighted_MAE": 0.015025380710659869,
+        "weighted_RMSE": 0.02338561922001253
+      }
+    },
+    "out_of_range_weighted_predictions": 0
+  }
+}

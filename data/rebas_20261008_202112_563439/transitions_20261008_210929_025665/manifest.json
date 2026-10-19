@@ -1,0 +1,10 @@
+{
+  "status": "failed",
+  "source_csv": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/all_batter_same_season.csv",
+  "started_at_utc": "2026-10-08T13:09:29.033269+00:00",
+  "requested_player_seasons": 778,
+  "completed_player_seasons": 0,
+  "definition": "consecutive appearance-level segments; not registration dates",
+  "requests": [],
+  "error": "Game count mismatch https://www.rebas.tw/api/formal/players/00Or0/seasons/CPBLmi-2020-cP/logs: expected 16, got 14"
+}

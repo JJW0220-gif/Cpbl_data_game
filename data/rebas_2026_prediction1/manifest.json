@@ -1,0 +1,74 @@
+{
+  "status": "complete",
+  "source": "https://www.rebas.tw",
+  "started_at_utc": "2026-10-19T02:16:28.651657+00:00",
+  "years": [
+    2026
+  ],
+  "levels": [
+    "major",
+    "minor"
+  ],
+  "roles": [
+    "batter"
+  ],
+  "sections": [
+    "standard",
+    "advanced",
+    "new"
+  ],
+  "scope": "regular season, all available players, no rookie/age filter",
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2026-oB/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-19T02:16:30.683748+00:00",
+      "rows": 183,
+      "raw_file": "raw/2026_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2026-oB/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-19T02:16:31.900547+00:00",
+      "rows": 183,
+      "raw_file": "raw/2026_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2026-oB/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-19T02:16:33.670036+00:00",
+      "rows": 183,
+      "raw_file": "raw/2026_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2026-Jn/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-19T02:16:35.273464+00:00",
+      "rows": 210,
+      "raw_file": "raw/2026_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2026-Jn/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-19T02:16:36.500088+00:00",
+      "rows": 210,
+      "raw_file": "raw/2026_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2026-Jn/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-19T02:16:38.297919+00:00",
+      "rows": 210,
+      "raw_file": "raw/2026_minor_batter_new.json"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "2026_major_batter.csv",
+      "rows": 183
+    },
+    {
+      "file": "2026_minor_batter.csv",
+      "rows": 210
+    },
+    {
+      "file": "all_batter.csv",
+      "rows": 393
+    }
+  ],
+  "finished_at_utc": "2026-10-19T02:16:38.321063+00:00"
+}

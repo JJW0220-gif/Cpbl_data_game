@@ -1,0 +1,166 @@
+{
+  "major_AVG": {
+    "train_rows": 164,
+    "validation_rows": 42,
+    "undefined_train_targets": 3,
+    "undefined_validation_targets": 0,
+    "alpha": 1000.0,
+    "training_cv_weighted_MAE": 0.06875617915195828,
+    "validation": {
+      "MAE": 0.16279878720932206,
+      "RMSE": 0.20890777554902804,
+      "R2": -0.32251488765046643
+    },
+    "validation_major_pa_weighted": {
+      "MAE": 0.05891390176557822,
+      "RMSE": 0.0983650692212403,
+      "R2": -0.030502295707002913
+    },
+    "train_mean_baseline": {
+      "MAE": 0.1455693910674488,
+      "RMSE": 0.19105649104861144,
+      "R2": -0.10615237106647202
+    },
+    "train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.07840854035693938,
+      "RMSE": 0.09921215323730391,
+      "R2": -0.04832733609628992
+    },
+    "pa_weighted_train_mean_baseline": {
+      "MAE": 0.16587781963898374,
+      "RMSE": 0.21175395871102987,
+      "R2": -0.3587965529966237
+    },
+    "pa_weighted_train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.0628525121194136,
+      "RMSE": 0.10095337505999681,
+      "R2": -0.08544755669210868
+    },
+    "training_major_pa_sum": 3474.0,
+    "validation_major_pa_sum": 573.0,
+    "out_of_range_predictions": 0
+  },
+  "major_OBP": {
+    "train_rows": 166,
+    "validation_rows": 42,
+    "undefined_train_targets": 1,
+    "undefined_validation_targets": 0,
+    "alpha": 100.0,
+    "training_cv_weighted_MAE": 0.06466401333694725,
+    "validation": {
+      "MAE": 0.17887090470358488,
+      "RMSE": 0.22686668733782836,
+      "R2": -0.39635591312860163
+    },
+    "validation_major_pa_weighted": {
+      "MAE": 0.06347576942416885,
+      "RMSE": 0.11057874416264289,
+      "R2": -0.05565467761858778
+    },
+    "train_mean_baseline": {
+      "MAE": 0.16091938935895136,
+      "RMSE": 0.20738301132731474,
+      "R2": -0.16681236299852076
+    },
+    "train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.08589322975429721,
+      "RMSE": 0.11004552196558556,
+      "R2": -0.045498271281457114
+    },
+    "pa_weighted_train_mean_baseline": {
+      "MAE": 0.18403034350276265,
+      "RMSE": 0.23345835949357843,
+      "R2": -0.478677716250661
+    },
+    "pa_weighted_train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.06551660916146941,
+      "RMSE": 0.11212824255977379,
+      "R2": -0.0854469440254213
+    },
+    "training_major_pa_sum": 3476.0,
+    "validation_major_pa_sum": 573.0,
+    "out_of_range_predictions": 0
+  },
+  "major_SLG": {
+    "train_rows": 164,
+    "validation_rows": 42,
+    "undefined_train_targets": 3,
+    "undefined_validation_targets": 0,
+    "alpha": 1000.0,
+    "training_cv_weighted_MAE": 0.1008609280613513,
+    "validation": {
+      "MAE": 0.22247300943636722,
+      "RMSE": 0.2595830198907636,
+      "R2": -0.4612007681606034
+    },
+    "validation_major_pa_weighted": {
+      "MAE": 0.10632775871851657,
+      "RMSE": 0.14859657780031257,
+      "R2": 0.02546295311817448
+    },
+    "train_mean_baseline": {
+      "MAE": 0.19719507551011373,
+      "RMSE": 0.23109531632733712,
+      "R2": -0.15808281734643548
+    },
+    "train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.1346806737195344,
+      "RMSE": 0.1577934775177571,
+      "R2": -0.09890166884987361
+    },
+    "pa_weighted_train_mean_baseline": {
+      "MAE": 0.22612000404681262,
+      "RMSE": 0.2637542003850061,
+      "R2": -0.5085374636342928
+    },
+    "pa_weighted_train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.10647507303232545,
+      "RMSE": 0.15190387210365652,
+      "R2": -0.018400084816850404
+    },
+    "training_major_pa_sum": 3474.0,
+    "validation_major_pa_sum": 573.0,
+    "out_of_range_predictions": 0
+  },
+  "major_HR_PA": {
+    "train_rows": 167,
+    "validation_rows": 42,
+    "undefined_train_targets": 0,
+    "undefined_validation_targets": 0,
+    "alpha": 10000.0,
+    "training_cv_weighted_MAE": 0.00847555696714749,
+    "validation": {
+      "MAE": 0.008238672452330854,
+      "RMSE": 0.008582166089996478,
+      "R2": -1.114567336622903
+    },
+    "validation_major_pa_weighted": {
+      "MAE": 0.009260267385092127,
+      "RMSE": 0.009907926844867253,
+      "R2": -0.014546920708363276
+    },
+    "train_mean_baseline": {
+      "MAE": 0.005265575177473951,
+      "RMSE": 0.006515906582599549,
+      "R2": -0.21892613178865905
+    },
+    "train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.009005100799250213,
+      "RMSE": 0.010777412679637059,
+      "R2": -0.2004265164216077
+    },
+    "pa_weighted_train_mean_baseline": {
+      "MAE": 0.008216785084410205,
+      "RMSE": 0.008563148105509327,
+      "R2": -1.1052060050897121
+    },
+    "pa_weighted_train_mean_baseline_major_pa_weighted": {
+      "MAE": 0.009227428712541803,
+      "RMSE": 0.009883439920200491,
+      "R2": -0.00953831797007254
+    },
+    "training_major_pa_sum": 3477.0,
+    "validation_major_pa_sum": 573.0,
+    "out_of_range_predictions": 0
+  }
+}

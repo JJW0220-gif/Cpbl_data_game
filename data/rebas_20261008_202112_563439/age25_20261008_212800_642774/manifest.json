@@ -1,0 +1,2148 @@
+{
+  "status": "complete",
+  "source_csv": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/all_pitcher_same_season.csv",
+  "age_definition": "completed years on January 1 of season year",
+  "max_age_inclusive": 25,
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/players/0AGQy",
+      "raw_file": "raw/profile_0AGQy.json",
+      "fetched_at_utc": "2026-10-08T13:28:02.605369+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/0ILWC",
+      "raw_file": "raw/profile_0ILWC.json",
+      "fetched_at_utc": "2026-10-08T13:28:03.945924+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/0OMWv",
+      "raw_file": "raw/profile_0OMWv.json",
+      "fetched_at_utc": "2026-10-08T13:28:05.329303+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/0et8r",
+      "raw_file": "raw/profile_0et8r.json",
+      "fetched_at_utc": "2026-10-08T13:28:07.018342+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/1KPap",
+      "raw_file": "raw/profile_1KPap.json",
+      "fetched_at_utc": "2026-10-08T13:28:08.539453+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/1Q3sV",
+      "raw_file": "raw/profile_1Q3sV.json",
+      "fetched_at_utc": "2026-10-08T13:28:09.846123+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/1cFE3",
+      "raw_file": "raw/profile_1cFE3.json",
+      "fetched_at_utc": "2026-10-08T13:28:11.528784+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/2B6yo",
+      "raw_file": "raw/profile_2B6yo.json",
+      "fetched_at_utc": "2026-10-08T13:28:13.006475+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/2HOl",
+      "raw_file": "raw/profile_2HOl.json",
+      "fetched_at_utc": "2026-10-08T13:28:12.113148+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/2NNQf",
+      "raw_file": "raw/profile_2NNQf.json",
+      "fetched_at_utc": "2026-10-08T13:28:13.812318+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/2erzs",
+      "raw_file": "raw/profile_2erzs.json",
+      "fetched_at_utc": "2026-10-08T13:28:15.327391+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/32PTc",
+      "raw_file": "raw/profile_32PTc.json",
+      "fetched_at_utc": "2026-10-08T13:28:16.719940+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3SLsp",
+      "raw_file": "raw/profile_3SLsp.json",
+      "fetched_at_utc": "2026-10-08T13:28:18.439226+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3Xh4g",
+      "raw_file": "raw/profile_3Xh4g.json",
+      "fetched_at_utc": "2026-10-08T13:28:20.156053+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3dTsm",
+      "raw_file": "raw/profile_3dTsm.json",
+      "fetched_at_utc": "2026-10-08T13:28:21.329181+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3sabs",
+      "raw_file": "raw/profile_3sabs.json",
+      "fetched_at_utc": "2026-10-08T13:28:23.076852+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/40qAx",
+      "raw_file": "raw/profile_40qAx.json",
+      "fetched_at_utc": "2026-10-08T13:28:24.589844+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/4EOym",
+      "raw_file": "raw/profile_4EOym.json",
+      "fetched_at_utc": "2026-10-08T13:28:25.968610+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/4EUUY",
+      "raw_file": "raw/profile_4EUUY.json",
+      "fetched_at_utc": "2026-10-08T13:28:27.654190+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/4ICxk",
+      "raw_file": "raw/profile_4ICxk.json",
+      "fetched_at_utc": "2026-10-08T13:28:29.160776+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/4Wgxf",
+      "raw_file": "raw/profile_4Wgxf.json",
+      "fetched_at_utc": "2026-10-08T13:28:30.574755+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/5RDHC",
+      "raw_file": "raw/profile_5RDHC.json",
+      "fetched_at_utc": "2026-10-08T13:28:32.163521+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/5ZFTZ",
+      "raw_file": "raw/profile_5ZFTZ.json",
+      "fetched_at_utc": "2026-10-08T13:28:33.869497+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/5elSB",
+      "raw_file": "raw/profile_5elSB.json",
+      "fetched_at_utc": "2026-10-08T13:28:35.214405+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/6adnx",
+      "raw_file": "raw/profile_6adnx.json",
+      "fetched_at_utc": "2026-10-08T13:28:36.888581+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/76Geu",
+      "raw_file": "raw/profile_76Geu.json",
+      "fetched_at_utc": "2026-10-08T13:28:38.460449+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7PR1W",
+      "raw_file": "raw/profile_7PR1W.json",
+      "fetched_at_utc": "2026-10-08T13:28:39.875436+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7Qind",
+      "raw_file": "raw/profile_7Qind.json",
+      "fetched_at_utc": "2026-10-08T13:28:41.598295+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7RFVr",
+      "raw_file": "raw/profile_7RFVr.json",
+      "fetched_at_utc": "2026-10-08T13:28:43.145500+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7SbFo",
+      "raw_file": "raw/profile_7SbFo.json",
+      "fetched_at_utc": "2026-10-08T13:28:42.192667+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/81hMI",
+      "raw_file": "raw/profile_81hMI.json",
+      "fetched_at_utc": "2026-10-08T13:28:43.871695+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8En1C",
+      "raw_file": "raw/profile_8En1C.json",
+      "fetched_at_utc": "2026-10-08T13:28:45.402269+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8QSUU",
+      "raw_file": "raw/profile_8QSUU.json",
+      "fetched_at_utc": "2026-10-08T13:28:46.770084+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8ZZrq",
+      "raw_file": "raw/profile_8ZZrq.json",
+      "fetched_at_utc": "2026-10-08T13:28:48.488635+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8llux",
+      "raw_file": "raw/profile_8llux.json",
+      "fetched_at_utc": "2026-10-08T13:28:50.024817+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8tDFK",
+      "raw_file": "raw/profile_8tDFK.json",
+      "fetched_at_utc": "2026-10-08T13:28:51.440735+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8wmMR",
+      "raw_file": "raw/profile_8wmMR.json",
+      "fetched_at_utc": "2026-10-08T13:28:53.120427+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8xTa7",
+      "raw_file": "raw/profile_8xTa7.json",
+      "fetched_at_utc": "2026-10-08T13:28:54.669807+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/A7z16",
+      "raw_file": "raw/profile_A7z16.json",
+      "fetched_at_utc": "2026-10-08T13:28:56.120372+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/AHgQ7",
+      "raw_file": "raw/profile_AHgQ7.json",
+      "fetched_at_utc": "2026-10-08T13:28:57.793513+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/AYaIo",
+      "raw_file": "raw/profile_AYaIo.json",
+      "fetched_at_utc": "2026-10-08T13:28:59.279204+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Am8Uy",
+      "raw_file": "raw/profile_Am8Uy.json",
+      "fetched_at_utc": "2026-10-08T13:29:00.769644+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Ayn6s",
+      "raw_file": "raw/profile_Ayn6s.json",
+      "fetched_at_utc": "2026-10-08T13:29:02.465805+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BLal8",
+      "raw_file": "raw/profile_BLal8.json",
+      "fetched_at_utc": "2026-10-08T13:29:03.947990+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BVeRB",
+      "raw_file": "raw/profile_BVeRB.json",
+      "fetched_at_utc": "2026-10-08T13:29:05.383152+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BX0ND",
+      "raw_file": "raw/profile_BX0ND.json",
+      "fetched_at_utc": "2026-10-08T13:29:07.093988+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BXV3r",
+      "raw_file": "raw/profile_BXV3r.json",
+      "fetched_at_utc": "2026-10-08T13:29:08.709387+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BdwFp",
+      "raw_file": "raw/profile_BdwFp.json",
+      "fetched_at_utc": "2026-10-08T13:29:10.081855+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Bq4t2",
+      "raw_file": "raw/profile_Bq4t2.json",
+      "fetched_at_utc": "2026-10-08T13:29:11.708900+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BuAfc",
+      "raw_file": "raw/profile_BuAfc.json",
+      "fetched_at_utc": "2026-10-08T13:29:13.325058+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/C6A1j",
+      "raw_file": "raw/profile_C6A1j.json",
+      "fetched_at_utc": "2026-10-08T13:29:12.410563+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CDWfY",
+      "raw_file": "raw/profile_CDWfY.json",
+      "fetched_at_utc": "2026-10-08T13:29:14.017932+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CE17i",
+      "raw_file": "raw/profile_CE17i.json",
+      "fetched_at_utc": "2026-10-08T13:29:15.567934+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CFgIZ",
+      "raw_file": "raw/profile_CFgIZ.json",
+      "fetched_at_utc": "2026-10-08T13:29:16.952066+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CHGvV",
+      "raw_file": "raw/profile_CHGvV.json",
+      "fetched_at_utc": "2026-10-08T13:29:18.680432+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CdR5x",
+      "raw_file": "raw/profile_CdR5x.json",
+      "fetched_at_utc": "2026-10-08T13:29:20.239057+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CvkZv",
+      "raw_file": "raw/profile_CvkZv.json",
+      "fetched_at_utc": "2026-10-08T13:29:21.643706+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/D2UQ",
+      "raw_file": "raw/profile_D2UQ.json",
+      "fetched_at_utc": "2026-10-08T13:29:23.333247+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/D4Ioi",
+      "raw_file": "raw/profile_D4Ioi.json",
+      "fetched_at_utc": "2026-10-08T13:29:24.883555+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/DXLDG",
+      "raw_file": "raw/profile_DXLDG.json",
+      "fetched_at_utc": "2026-10-08T13:29:26.349420+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/DdcwZ",
+      "raw_file": "raw/profile_DdcwZ.json",
+      "fetched_at_utc": "2026-10-08T13:29:27.997187+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/DghS4",
+      "raw_file": "raw/profile_DghS4.json",
+      "fetched_at_utc": "2026-10-08T13:29:29.614219+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/DogqI",
+      "raw_file": "raw/profile_DogqI.json",
+      "fetched_at_utc": "2026-10-08T13:29:31.041580+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EIhcu",
+      "raw_file": "raw/profile_EIhcu.json",
+      "fetched_at_utc": "2026-10-08T13:29:32.830890+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EMrAA",
+      "raw_file": "raw/profile_EMrAA.json",
+      "fetched_at_utc": "2026-10-08T13:29:34.405025+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EON0l",
+      "raw_file": "raw/profile_EON0l.json",
+      "fetched_at_utc": "2026-10-08T13:29:35.796722+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ESKHd",
+      "raw_file": "raw/profile_ESKHd.json",
+      "fetched_at_utc": "2026-10-08T13:29:37.965976+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EVN6",
+      "raw_file": "raw/profile_EVN6.json",
+      "fetched_at_utc": "2026-10-08T13:29:39.707901+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EbmCy",
+      "raw_file": "raw/profile_EbmCy.json",
+      "fetched_at_utc": "2026-10-08T13:29:40.702375+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Ehmuj",
+      "raw_file": "raw/profile_Ehmuj.json",
+      "fetched_at_utc": "2026-10-08T13:29:42.555128+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EmDR7",
+      "raw_file": "raw/profile_EmDR7.json",
+      "fetched_at_utc": "2026-10-08T13:29:43.598277+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EsmS7",
+      "raw_file": "raw/profile_EsmS7.json",
+      "fetched_at_utc": "2026-10-08T13:29:42.957536+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FEjzB",
+      "raw_file": "raw/profile_FEjzB.json",
+      "fetched_at_utc": "2026-10-08T13:29:44.670875+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FEwny",
+      "raw_file": "raw/profile_FEwny.json",
+      "fetched_at_utc": "2026-10-08T13:29:46.210754+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FJzmS",
+      "raw_file": "raw/profile_FJzmS.json",
+      "fetched_at_utc": "2026-10-08T13:29:47.956678+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FNDyJ",
+      "raw_file": "raw/profile_FNDyJ.json",
+      "fetched_at_utc": "2026-10-08T13:29:49.623602+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FQ5fV",
+      "raw_file": "raw/profile_FQ5fV.json",
+      "fetched_at_utc": "2026-10-08T13:29:50.930012+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FTjP8",
+      "raw_file": "raw/profile_FTjP8.json",
+      "fetched_at_utc": "2026-10-08T13:29:52.893514+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FUROT",
+      "raw_file": "raw/profile_FUROT.json",
+      "fetched_at_utc": "2026-10-08T13:29:54.110256+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FXLGB",
+      "raw_file": "raw/profile_FXLGB.json",
+      "fetched_at_utc": "2026-10-08T13:29:55.440194+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FaBDa",
+      "raw_file": "raw/profile_FaBDa.json",
+      "fetched_at_utc": "2026-10-08T13:29:57.043958+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FdIpf",
+      "raw_file": "raw/profile_FdIpf.json",
+      "fetched_at_utc": "2026-10-08T13:29:58.407787+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Fdxmu",
+      "raw_file": "raw/profile_Fdxmu.json",
+      "fetched_at_utc": "2026-10-08T13:29:59.982443+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Fraw",
+      "raw_file": "raw/profile_Fraw.json",
+      "fetched_at_utc": "2026-10-08T13:30:01.547473+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FreKs",
+      "raw_file": "raw/profile_FreKs.json",
+      "fetched_at_utc": "2026-10-08T13:30:03.410039+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FzsQT",
+      "raw_file": "raw/profile_FzsQT.json",
+      "fetched_at_utc": "2026-10-08T13:30:05.089695+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/G2rhE",
+      "raw_file": "raw/profile_G2rhE.json",
+      "fetched_at_utc": "2026-10-08T13:30:06.638485+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GGGgf",
+      "raw_file": "raw/profile_GGGgf.json",
+      "fetched_at_utc": "2026-10-08T13:30:07.882718+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GMcZW",
+      "raw_file": "raw/profile_GMcZW.json",
+      "fetched_at_utc": "2026-10-08T13:30:09.191608+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GfanT",
+      "raw_file": "raw/profile_GfanT.json",
+      "fetched_at_utc": "2026-10-08T13:30:10.873726+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GrZw6",
+      "raw_file": "raw/profile_GrZw6.json",
+      "fetched_at_utc": "2026-10-08T13:30:12.440487+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GwaW8",
+      "raw_file": "raw/profile_GwaW8.json",
+      "fetched_at_utc": "2026-10-08T13:30:13.864350+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GyXsc",
+      "raw_file": "raw/profile_GyXsc.json",
+      "fetched_at_utc": "2026-10-08T13:30:13.586586+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Hxbrc",
+      "raw_file": "raw/profile_Hxbrc.json",
+      "fetched_at_utc": "2026-10-08T13:30:14.728101+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/IvH3O",
+      "raw_file": "raw/profile_IvH3O.json",
+      "fetched_at_utc": "2026-10-08T13:30:16.153374+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/J4Ca0",
+      "raw_file": "raw/profile_J4Ca0.json",
+      "fetched_at_utc": "2026-10-08T13:30:17.794981+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/J4GsF",
+      "raw_file": "raw/profile_J4GsF.json",
+      "fetched_at_utc": "2026-10-08T13:30:19.322223+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JF0sq",
+      "raw_file": "raw/profile_JF0sq.json",
+      "fetched_at_utc": "2026-10-08T13:30:20.787345+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JYGnI",
+      "raw_file": "raw/profile_JYGnI.json",
+      "fetched_at_utc": "2026-10-08T13:30:22.448206+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JxUpX",
+      "raw_file": "raw/profile_JxUpX.json",
+      "fetched_at_utc": "2026-10-08T13:30:24.025508+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JyP3r",
+      "raw_file": "raw/profile_JyP3r.json",
+      "fetched_at_utc": "2026-10-08T13:30:25.454178+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/K1Dt",
+      "raw_file": "raw/profile_K1Dt.json",
+      "fetched_at_utc": "2026-10-08T13:30:27.122829+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/KPTzi",
+      "raw_file": "raw/profile_KPTzi.json",
+      "fetched_at_utc": "2026-10-08T13:30:28.932105+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/KS8oG",
+      "raw_file": "raw/profile_KS8oG.json",
+      "fetched_at_utc": "2026-10-08T13:30:30.334272+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/KllvJ",
+      "raw_file": "raw/profile_KllvJ.json",
+      "fetched_at_utc": "2026-10-08T13:30:31.843171+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LE8GV",
+      "raw_file": "raw/profile_LE8GV.json",
+      "fetched_at_utc": "2026-10-08T13:30:33.249700+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LLFhr",
+      "raw_file": "raw/profile_LLFhr.json",
+      "fetched_at_utc": "2026-10-08T13:30:34.708795+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LOhAM",
+      "raw_file": "raw/profile_LOhAM.json",
+      "fetched_at_utc": "2026-10-08T13:30:36.370641+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LVHD",
+      "raw_file": "raw/profile_LVHD.json",
+      "fetched_at_utc": "2026-10-08T13:30:38.002028+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LtgEZ",
+      "raw_file": "raw/profile_LtgEZ.json",
+      "fetched_at_utc": "2026-10-08T13:30:40.146832+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/M2c2d",
+      "raw_file": "raw/profile_M2c2d.json",
+      "fetched_at_utc": "2026-10-08T13:30:41.882909+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/MC2LZ",
+      "raw_file": "raw/profile_MC2LZ.json",
+      "fetched_at_utc": "2026-10-08T13:30:42.651299+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/MSMcB",
+      "raw_file": "raw/profile_MSMcB.json",
+      "fetched_at_utc": "2026-10-08T13:30:43.981698+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/MXzuM",
+      "raw_file": "raw/profile_MXzuM.json",
+      "fetched_at_utc": "2026-10-08T13:30:43.557006+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/MYQFz",
+      "raw_file": "raw/profile_MYQFz.json",
+      "fetched_at_utc": "2026-10-08T13:30:45.188389+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/My2lN",
+      "raw_file": "raw/profile_My2lN.json",
+      "fetched_at_utc": "2026-10-08T13:30:47.074356+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/N0vZX",
+      "raw_file": "raw/profile_N0vZX.json",
+      "fetched_at_utc": "2026-10-08T13:30:48.283137+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/N1cPl",
+      "raw_file": "raw/profile_N1cPl.json",
+      "fetched_at_utc": "2026-10-08T13:30:52.865706+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/N2Oew",
+      "raw_file": "raw/profile_N2Oew.json",
+      "fetched_at_utc": "2026-10-08T13:30:56.284380+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/NHGwk",
+      "raw_file": "raw/profile_NHGwk.json",
+      "fetched_at_utc": "2026-10-08T13:30:57.700748+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/NiLDB",
+      "raw_file": "raw/profile_NiLDB.json",
+      "fetched_at_utc": "2026-10-08T13:30:59.057883+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/NiqAD",
+      "raw_file": "raw/profile_NiqAD.json",
+      "fetched_at_utc": "2026-10-08T13:31:00.032205+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/NjTQu",
+      "raw_file": "raw/profile_NjTQu.json",
+      "fetched_at_utc": "2026-10-08T13:31:01.553031+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/NriyJ",
+      "raw_file": "raw/profile_NriyJ.json",
+      "fetched_at_utc": "2026-10-08T13:31:03.212397+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Nyjkr",
+      "raw_file": "raw/profile_Nyjkr.json",
+      "fetched_at_utc": "2026-10-08T13:31:04.866107+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/O4qH0",
+      "raw_file": "raw/profile_O4qH0.json",
+      "fetched_at_utc": "2026-10-08T13:31:06.531561+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/OPSiS",
+      "raw_file": "raw/profile_OPSiS.json",
+      "fetched_at_utc": "2026-10-08T13:31:07.520041+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/OZ4Ny",
+      "raw_file": "raw/profile_OZ4Ny.json",
+      "fetched_at_utc": "2026-10-08T13:31:08.772646+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Oo3kC",
+      "raw_file": "raw/profile_Oo3kC.json",
+      "fetched_at_utc": "2026-10-08T13:31:10.440155+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Osr68",
+      "raw_file": "raw/profile_Osr68.json",
+      "fetched_at_utc": "2026-10-08T13:31:12.625536+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PNg5H",
+      "raw_file": "raw/profile_PNg5H.json",
+      "fetched_at_utc": "2026-10-08T13:31:13.733215+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PUHJv",
+      "raw_file": "raw/profile_PUHJv.json",
+      "fetched_at_utc": "2026-10-08T13:31:15.959954+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PtGe1",
+      "raw_file": "raw/profile_PtGe1.json",
+      "fetched_at_utc": "2026-10-08T13:31:17.036304+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Q5oCF",
+      "raw_file": "raw/profile_Q5oCF.json",
+      "fetched_at_utc": "2026-10-08T13:31:18.796886+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Q6qCr",
+      "raw_file": "raw/profile_Q6qCr.json",
+      "fetched_at_utc": "2026-10-08T13:31:19.997087+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/QEU8",
+      "raw_file": "raw/profile_QEU8.json",
+      "fetched_at_utc": "2026-10-08T13:31:21.467696+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/QGeLn",
+      "raw_file": "raw/profile_QGeLn.json",
+      "fetched_at_utc": "2026-10-08T13:31:23.051260+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/QRk3",
+      "raw_file": "raw/profile_QRk3.json",
+      "fetched_at_utc": "2026-10-08T13:31:24.150813+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/QWcJc",
+      "raw_file": "raw/profile_QWcJc.json",
+      "fetched_at_utc": "2026-10-08T13:31:25.774626+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Qmj7D",
+      "raw_file": "raw/profile_Qmj7D.json",
+      "fetched_at_utc": "2026-10-08T13:31:27.220271+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Qxjh1",
+      "raw_file": "raw/profile_Qxjh1.json",
+      "fetched_at_utc": "2026-10-08T13:31:28.871962+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Qy3ep",
+      "raw_file": "raw/profile_Qy3ep.json",
+      "fetched_at_utc": "2026-10-08T13:31:27.078459+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RJwxu",
+      "raw_file": "raw/profile_RJwxu.json",
+      "fetched_at_utc": "2026-10-08T13:31:28.486011+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RKAsK",
+      "raw_file": "raw/profile_RKAsK.json",
+      "fetched_at_utc": "2026-10-08T13:31:30.451009+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ROPYm",
+      "raw_file": "raw/profile_ROPYm.json",
+      "fetched_at_utc": "2026-10-08T13:31:31.720094+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RQkp2",
+      "raw_file": "raw/profile_RQkp2.json",
+      "fetched_at_utc": "2026-10-08T13:31:33.280871+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/S6ehR",
+      "raw_file": "raw/profile_S6ehR.json",
+      "fetched_at_utc": "2026-10-08T13:31:34.833567+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/SIuGq",
+      "raw_file": "raw/profile_SIuGq.json",
+      "fetched_at_utc": "2026-10-08T13:31:36.652454+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/SMK2K",
+      "raw_file": "raw/profile_SMK2K.json",
+      "fetched_at_utc": "2026-10-08T13:31:37.889364+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/TSc2s",
+      "raw_file": "raw/profile_TSc2s.json",
+      "fetched_at_utc": "2026-10-08T13:31:39.943696+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/TcTH",
+      "raw_file": "raw/profile_TcTH.json",
+      "fetched_at_utc": "2026-10-08T13:31:41.600891+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UQibF",
+      "raw_file": "raw/profile_UQibF.json",
+      "fetched_at_utc": "2026-10-08T13:31:42.912743+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UWcl0",
+      "raw_file": "raw/profile_UWcl0.json",
+      "fetched_at_utc": "2026-10-08T13:31:44.905623+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Ubf2u",
+      "raw_file": "raw/profile_Ubf2u.json",
+      "fetched_at_utc": "2026-10-08T13:31:45.969651+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UtY4A",
+      "raw_file": "raw/profile_UtY4A.json",
+      "fetched_at_utc": "2026-10-08T13:31:47.133780+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/V8XLP",
+      "raw_file": "raw/profile_V8XLP.json",
+      "fetched_at_utc": "2026-10-08T13:31:48.590768+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/VjFft",
+      "raw_file": "raw/profile_VjFft.json",
+      "fetched_at_utc": "2026-10-08T13:31:50.236197+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/W0ek7",
+      "raw_file": "raw/profile_W0ek7.json",
+      "fetched_at_utc": "2026-10-08T13:31:51.927958+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WHBf0",
+      "raw_file": "raw/profile_WHBf0.json",
+      "fetched_at_utc": "2026-10-08T13:31:53.546737+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WO2Zq",
+      "raw_file": "raw/profile_WO2Zq.json",
+      "fetched_at_utc": "2026-10-08T13:31:55.085856+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WwMol",
+      "raw_file": "raw/profile_WwMol.json",
+      "fetched_at_utc": "2026-10-08T13:31:57.215518+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/X1j6L",
+      "raw_file": "raw/profile_X1j6L.json",
+      "fetched_at_utc": "2026-10-08T13:31:57.924224+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/X8uw7",
+      "raw_file": "raw/profile_X8uw7.json",
+      "fetched_at_utc": "2026-10-08T13:31:57.268620+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Y8ZEZ",
+      "raw_file": "raw/profile_Y8ZEZ.json",
+      "fetched_at_utc": "2026-10-08T13:31:59.068441+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/YG0gn",
+      "raw_file": "raw/profile_YG0gn.json",
+      "fetched_at_utc": "2026-10-08T13:32:00.814491+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/YKrjN",
+      "raw_file": "raw/profile_YKrjN.json",
+      "fetched_at_utc": "2026-10-08T13:32:02.108030+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Ych1T",
+      "raw_file": "raw/profile_Ych1T.json",
+      "fetched_at_utc": "2026-10-08T13:32:04.070560+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Yrx4m",
+      "raw_file": "raw/profile_Yrx4m.json",
+      "fetched_at_utc": "2026-10-08T13:32:05.291175+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/YsKwk",
+      "raw_file": "raw/profile_YsKwk.json",
+      "fetched_at_utc": "2026-10-08T13:32:06.607456+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Z18US",
+      "raw_file": "raw/profile_Z18US.json",
+      "fetched_at_utc": "2026-10-08T13:32:08.563865+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Z4dyf",
+      "raw_file": "raw/profile_Z4dyf.json",
+      "fetched_at_utc": "2026-10-08T13:32:09.882076+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Z6eqi",
+      "raw_file": "raw/profile_Z6eqi.json",
+      "fetched_at_utc": "2026-10-08T13:32:11.311282+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ZWWL",
+      "raw_file": "raw/profile_ZWWL.json",
+      "fetched_at_utc": "2026-10-08T13:32:13.079245+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Zk6YH",
+      "raw_file": "raw/profile_Zk6YH.json",
+      "fetched_at_utc": "2026-10-08T13:32:14.350648+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ZpNKz",
+      "raw_file": "raw/profile_ZpNKz.json",
+      "fetched_at_utc": "2026-10-08T13:32:16.041350+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/a5fxm",
+      "raw_file": "raw/profile_a5fxm.json",
+      "fetched_at_utc": "2026-10-08T13:32:17.244826+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/aJQvl",
+      "raw_file": "raw/profile_aJQvl.json",
+      "fetched_at_utc": "2026-10-08T13:32:18.691627+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/aXbhb",
+      "raw_file": "raw/profile_aXbhb.json",
+      "fetched_at_utc": "2026-10-08T13:32:20.410104+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/aaUv3",
+      "raw_file": "raw/profile_aaUv3.json",
+      "fetched_at_utc": "2026-10-08T13:32:21.989697+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/afk2Y",
+      "raw_file": "raw/profile_afk2Y.json",
+      "fetched_at_utc": "2026-10-08T13:32:23.372194+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/alYAM",
+      "raw_file": "raw/profile_alYAM.json",
+      "fetched_at_utc": "2026-10-08T13:32:25.058721+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/b37yK",
+      "raw_file": "raw/profile_b37yK.json",
+      "fetched_at_utc": "2026-10-08T13:32:27.514659+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/b76lK",
+      "raw_file": "raw/profile_b76lK.json",
+      "fetched_at_utc": "2026-10-08T13:32:28.009978+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/bNFyN",
+      "raw_file": "raw/profile_bNFyN.json",
+      "fetched_at_utc": "2026-10-08T13:32:27.729982+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/bWxw6",
+      "raw_file": "raw/profile_bWxw6.json",
+      "fetched_at_utc": "2026-10-08T13:32:29.028749+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/bsXGT",
+      "raw_file": "raw/profile_bsXGT.json",
+      "fetched_at_utc": "2026-10-08T13:32:30.344381+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/bvbdc",
+      "raw_file": "raw/profile_bvbdc.json",
+      "fetched_at_utc": "2026-10-08T13:32:32.055583+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/cDiBm",
+      "raw_file": "raw/profile_cDiBm.json",
+      "fetched_at_utc": "2026-10-08T13:32:33.551006+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ccFMN",
+      "raw_file": "raw/profile_ccFMN.json",
+      "fetched_at_utc": "2026-10-08T13:32:35.079316+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/cloKd",
+      "raw_file": "raw/profile_cloKd.json",
+      "fetched_at_utc": "2026-10-08T13:32:36.584303+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/d5Rxg",
+      "raw_file": "raw/profile_d5Rxg.json",
+      "fetched_at_utc": "2026-10-08T13:32:38.171268+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dBVKG",
+      "raw_file": "raw/profile_dBVKG.json",
+      "fetched_at_utc": "2026-10-08T13:32:39.529733+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dOLyx",
+      "raw_file": "raw/profile_dOLyx.json",
+      "fetched_at_utc": "2026-10-08T13:32:41.232900+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dXXf8",
+      "raw_file": "raw/profile_dXXf8.json",
+      "fetched_at_utc": "2026-10-08T13:32:42.781096+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dYaAT",
+      "raw_file": "raw/profile_dYaAT.json",
+      "fetched_at_utc": "2026-10-08T13:32:44.218361+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dqIZr",
+      "raw_file": "raw/profile_dqIZr.json",
+      "fetched_at_utc": "2026-10-08T13:32:46.164705+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/duBTU",
+      "raw_file": "raw/profile_duBTU.json",
+      "fetched_at_utc": "2026-10-08T13:32:47.425859+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/eHTjm",
+      "raw_file": "raw/profile_eHTjm.json",
+      "fetched_at_utc": "2026-10-08T13:32:48.871621+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/eOCKK",
+      "raw_file": "raw/profile_eOCKK.json",
+      "fetched_at_utc": "2026-10-08T13:32:50.456643+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/fDihN",
+      "raw_file": "raw/profile_fDihN.json",
+      "fetched_at_utc": "2026-10-08T13:32:52.066889+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/fMC7h",
+      "raw_file": "raw/profile_fMC7h.json",
+      "fetched_at_utc": "2026-10-08T13:32:53.407811+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/fau7B",
+      "raw_file": "raw/profile_fau7B.json",
+      "fetched_at_utc": "2026-10-08T13:32:55.586662+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/feU8u",
+      "raw_file": "raw/profile_feU8u.json",
+      "fetched_at_utc": "2026-10-08T13:32:56.811975+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/fenOX",
+      "raw_file": "raw/profile_fenOX.json",
+      "fetched_at_utc": "2026-10-08T13:32:58.316939+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/fmN1q",
+      "raw_file": "raw/profile_fmN1q.json",
+      "fetched_at_utc": "2026-10-08T13:32:57.730776+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ftmEi",
+      "raw_file": "raw/profile_ftmEi.json",
+      "fetched_at_utc": "2026-10-08T13:32:59.364731+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/gMO3e",
+      "raw_file": "raw/profile_gMO3e.json",
+      "fetched_at_utc": "2026-10-08T13:33:00.794456+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/gQcx",
+      "raw_file": "raw/profile_gQcx.json",
+      "fetched_at_utc": "2026-10-08T13:33:01.895660+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/gdEku",
+      "raw_file": "raw/profile_gdEku.json",
+      "fetched_at_utc": "2026-10-08T13:33:03.503283+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/glhup",
+      "raw_file": "raw/profile_glhup.json",
+      "fetched_at_utc": "2026-10-08T13:33:04.917366+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/gljYV",
+      "raw_file": "raw/profile_gljYV.json",
+      "fetched_at_utc": "2026-10-08T13:33:06.692264+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/h2RM3",
+      "raw_file": "raw/profile_h2RM3.json",
+      "fetched_at_utc": "2026-10-08T13:33:08.263240+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/h33vK",
+      "raw_file": "raw/profile_h33vK.json",
+      "fetched_at_utc": "2026-10-08T13:33:09.437370+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/hMmIn",
+      "raw_file": "raw/profile_hMmIn.json",
+      "fetched_at_utc": "2026-10-08T13:33:11.121633+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/hbyHr",
+      "raw_file": "raw/profile_hbyHr.json",
+      "fetched_at_utc": "2026-10-08T13:33:13.081422+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/hlUTy",
+      "raw_file": "raw/profile_hlUTy.json",
+      "fetched_at_utc": "2026-10-08T13:33:15.707228+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iF0vC",
+      "raw_file": "raw/profile_iF0vC.json",
+      "fetched_at_utc": "2026-10-08T13:33:17.378057+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iYuPV",
+      "raw_file": "raw/profile_iYuPV.json",
+      "fetched_at_utc": "2026-10-08T13:33:18.021602+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iaoVu",
+      "raw_file": "raw/profile_iaoVu.json",
+      "fetched_at_utc": "2026-10-08T13:33:19.360929+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ieceO",
+      "raw_file": "raw/profile_ieceO.json",
+      "fetched_at_utc": "2026-10-08T13:33:21.054819+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iejK5",
+      "raw_file": "raw/profile_iejK5.json",
+      "fetched_at_utc": "2026-10-08T13:33:22.732109+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/itw6W",
+      "raw_file": "raw/profile_itw6W.json",
+      "fetched_at_utc": "2026-10-08T13:33:23.973281+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iyvIT",
+      "raw_file": "raw/profile_iyvIT.json",
+      "fetched_at_utc": "2026-10-08T13:33:25.713398+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/jeNol",
+      "raw_file": "raw/profile_jeNol.json",
+      "fetched_at_utc": "2026-10-08T13:33:27.433136+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/jjjGV",
+      "raw_file": "raw/profile_jjjGV.json",
+      "fetched_at_utc": "2026-10-08T13:33:28.582741+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/k1NGO",
+      "raw_file": "raw/profile_k1NGO.json",
+      "fetched_at_utc": "2026-10-08T13:33:27.998874+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/khuNH",
+      "raw_file": "raw/profile_khuNH.json",
+      "fetched_at_utc": "2026-10-08T13:33:29.597415+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/l0v0",
+      "raw_file": "raw/profile_l0v0.json",
+      "fetched_at_utc": "2026-10-08T13:33:30.942778+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/lAZri",
+      "raw_file": "raw/profile_lAZri.json",
+      "fetched_at_utc": "2026-10-08T13:33:32.694357+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/lEe40",
+      "raw_file": "raw/profile_lEe40.json",
+      "fetched_at_utc": "2026-10-08T13:33:34.183770+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/lyC1j",
+      "raw_file": "raw/profile_lyC1j.json",
+      "fetched_at_utc": "2026-10-08T13:33:35.571462+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/mQjRU",
+      "raw_file": "raw/profile_mQjRU.json",
+      "fetched_at_utc": "2026-10-08T13:33:37.245274+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/mTPOn",
+      "raw_file": "raw/profile_mTPOn.json",
+      "fetched_at_utc": "2026-10-08T13:33:38.797583+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/mUETF",
+      "raw_file": "raw/profile_mUETF.json",
+      "fetched_at_utc": "2026-10-08T13:33:40.214205+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/mlpZo",
+      "raw_file": "raw/profile_mlpZo.json",
+      "fetched_at_utc": "2026-10-08T13:33:41.999181+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/mxPQL",
+      "raw_file": "raw/profile_mxPQL.json",
+      "fetched_at_utc": "2026-10-08T13:33:43.543415+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/n6fv0",
+      "raw_file": "raw/profile_n6fv0.json",
+      "fetched_at_utc": "2026-10-08T13:33:44.971410+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nBTce",
+      "raw_file": "raw/profile_nBTce.json",
+      "fetched_at_utc": "2026-10-08T13:33:46.750489+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nI8wX",
+      "raw_file": "raw/profile_nI8wX.json",
+      "fetched_at_utc": "2026-10-08T13:33:48.271402+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nJU3T",
+      "raw_file": "raw/profile_nJU3T.json",
+      "fetched_at_utc": "2026-10-08T13:33:49.649125+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nJxsY",
+      "raw_file": "raw/profile_nJxsY.json",
+      "fetched_at_utc": "2026-10-08T13:33:51.322800+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nUjcY",
+      "raw_file": "raw/profile_nUjcY.json",
+      "fetched_at_utc": "2026-10-08T13:33:52.905110+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nVk1Q",
+      "raw_file": "raw/profile_nVk1Q.json",
+      "fetched_at_utc": "2026-10-08T13:33:54.311172+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ntuz2",
+      "raw_file": "raw/profile_ntuz2.json",
+      "fetched_at_utc": "2026-10-08T13:33:55.923906+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/oRak7",
+      "raw_file": "raw/profile_oRak7.json",
+      "fetched_at_utc": "2026-10-08T13:33:57.548955+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/oUEKo",
+      "raw_file": "raw/profile_oUEKo.json",
+      "fetched_at_utc": "2026-10-08T13:33:58.898630+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/pZwDr",
+      "raw_file": "raw/profile_pZwDr.json",
+      "fetched_at_utc": "2026-10-08T13:33:58.294842+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/q8Pn8",
+      "raw_file": "raw/profile_q8Pn8.json",
+      "fetched_at_utc": "2026-10-08T13:33:59.787419+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qA0h3",
+      "raw_file": "raw/profile_qA0h3.json",
+      "fetched_at_utc": "2026-10-08T13:34:01.191228+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qJRgp",
+      "raw_file": "raw/profile_qJRgp.json",
+      "fetched_at_utc": "2026-10-08T13:34:02.881090+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qOMcN",
+      "raw_file": "raw/profile_qOMcN.json",
+      "fetched_at_utc": "2026-10-08T13:34:04.458889+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qQixh",
+      "raw_file": "raw/profile_qQixh.json",
+      "fetched_at_utc": "2026-10-08T13:34:05.832283+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qTu2J",
+      "raw_file": "raw/profile_qTu2J.json",
+      "fetched_at_utc": "2026-10-08T13:34:07.550872+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qZ6gm",
+      "raw_file": "raw/profile_qZ6gm.json",
+      "fetched_at_utc": "2026-10-08T13:34:09.143082+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qn7op",
+      "raw_file": "raw/profile_qn7op.json",
+      "fetched_at_utc": "2026-10-08T13:34:10.562402+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/rRAI2",
+      "raw_file": "raw/profile_rRAI2.json",
+      "fetched_at_utc": "2026-10-08T13:34:12.244455+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/rdO1R",
+      "raw_file": "raw/profile_rdO1R.json",
+      "fetched_at_utc": "2026-10-08T13:34:13.884372+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/rxmjz",
+      "raw_file": "raw/profile_rxmjz.json",
+      "fetched_at_utc": "2026-10-08T13:34:15.399728+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ryeQU",
+      "raw_file": "raw/profile_ryeQU.json",
+      "fetched_at_utc": "2026-10-08T13:34:17.005771+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/sGfcd",
+      "raw_file": "raw/profile_sGfcd.json",
+      "fetched_at_utc": "2026-10-08T13:34:18.731655+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/sthAG",
+      "raw_file": "raw/profile_sthAG.json",
+      "fetched_at_utc": "2026-10-08T13:34:20.032579+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/tGmgw",
+      "raw_file": "raw/profile_tGmgw.json",
+      "fetched_at_utc": "2026-10-08T13:34:21.722357+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/tJGlh",
+      "raw_file": "raw/profile_tJGlh.json",
+      "fetched_at_utc": "2026-10-08T13:34:23.280158+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/tKyxK",
+      "raw_file": "raw/profile_tKyxK.json",
+      "fetched_at_utc": "2026-10-08T13:34:24.791196+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/u7Nvt",
+      "raw_file": "raw/profile_u7Nvt.json",
+      "fetched_at_utc": "2026-10-08T13:34:27.789725+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uAFjZ",
+      "raw_file": "raw/profile_uAFjZ.json",
+      "fetched_at_utc": "2026-10-08T13:34:29.577302+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uQ1IP",
+      "raw_file": "raw/profile_uQ1IP.json",
+      "fetched_at_utc": "2026-10-08T13:34:28.181870+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ujiQB",
+      "raw_file": "raw/profile_ujiQB.json",
+      "fetched_at_utc": "2026-10-08T13:34:29.698493+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/upBvv",
+      "raw_file": "raw/profile_upBvv.json",
+      "fetched_at_utc": "2026-10-08T13:34:30.891591+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uwD1Z",
+      "raw_file": "raw/profile_uwD1Z.json",
+      "fetched_at_utc": "2026-10-08T13:34:32.256647+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ux5h3",
+      "raw_file": "raw/profile_ux5h3.json",
+      "fetched_at_utc": "2026-10-08T13:34:33.921942+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/v1Pw4",
+      "raw_file": "raw/profile_v1Pw4.json",
+      "fetched_at_utc": "2026-10-08T13:34:35.371065+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/v1Tys",
+      "raw_file": "raw/profile_v1Tys.json",
+      "fetched_at_utc": "2026-10-08T13:34:37.173077+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vAdW7",
+      "raw_file": "raw/profile_vAdW7.json",
+      "fetched_at_utc": "2026-10-08T13:34:38.694556+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vKeH4",
+      "raw_file": "raw/profile_vKeH4.json",
+      "fetched_at_utc": "2026-10-08T13:34:40.104242+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vY7S",
+      "raw_file": "raw/profile_vY7S.json",
+      "fetched_at_utc": "2026-10-08T13:34:41.952868+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vf5l4",
+      "raw_file": "raw/profile_vf5l4.json",
+      "fetched_at_utc": "2026-10-08T13:34:43.405737+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vjziy",
+      "raw_file": "raw/profile_vjziy.json",
+      "fetched_at_utc": "2026-10-08T13:34:44.832098+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vrFcV",
+      "raw_file": "raw/profile_vrFcV.json",
+      "fetched_at_utc": "2026-10-08T13:34:46.572870+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/w3aQC",
+      "raw_file": "raw/profile_w3aQC.json",
+      "fetched_at_utc": "2026-10-08T13:34:48.059161+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wKoc1",
+      "raw_file": "raw/profile_wKoc1.json",
+      "fetched_at_utc": "2026-10-08T13:34:49.538517+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wXbwj",
+      "raw_file": "raw/profile_wXbwj.json",
+      "fetched_at_utc": "2026-10-08T13:34:51.222375+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wb3hW",
+      "raw_file": "raw/profile_wb3hW.json",
+      "fetched_at_utc": "2026-10-08T13:34:52.813720+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wddz5",
+      "raw_file": "raw/profile_wddz5.json",
+      "fetched_at_utc": "2026-10-08T13:34:54.228080+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wftNn",
+      "raw_file": "raw/profile_wftNn.json",
+      "fetched_at_utc": "2026-10-08T13:34:55.856276+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wjF8n",
+      "raw_file": "raw/profile_wjF8n.json",
+      "fetched_at_utc": "2026-10-08T13:34:57.427301+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/wmE1A",
+      "raw_file": "raw/profile_wmE1A.json",
+      "fetched_at_utc": "2026-10-08T13:34:58.851454+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/xGu6H",
+      "raw_file": "raw/profile_xGu6H.json",
+      "fetched_at_utc": "2026-10-08T13:34:58.209721+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/xlgRl",
+      "raw_file": "raw/profile_xlgRl.json",
+      "fetched_at_utc": "2026-10-08T13:34:59.709490+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/xzcRU",
+      "raw_file": "raw/profile_xzcRU.json",
+      "fetched_at_utc": "2026-10-08T13:35:01.174382+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/y1fia",
+      "raw_file": "raw/profile_y1fia.json",
+      "fetched_at_utc": "2026-10-08T13:35:02.834214+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/y3VHg",
+      "raw_file": "raw/profile_y3VHg.json",
+      "fetched_at_utc": "2026-10-08T13:35:04.434855+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/y5FKd",
+      "raw_file": "raw/profile_y5FKd.json",
+      "fetched_at_utc": "2026-10-08T13:35:05.837321+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yHLe",
+      "raw_file": "raw/profile_yHLe.json",
+      "fetched_at_utc": "2026-10-08T13:35:07.541583+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yHfy",
+      "raw_file": "raw/profile_yHfy.json",
+      "fetched_at_utc": "2026-10-08T13:35:09.082644+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ycAs1",
+      "raw_file": "raw/profile_ycAs1.json",
+      "fetched_at_utc": "2026-10-08T13:35:10.481295+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yemqV",
+      "raw_file": "raw/profile_yemqV.json",
+      "fetched_at_utc": "2026-10-08T13:35:12.517744+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yhCr",
+      "raw_file": "raw/profile_yhCr.json",
+      "fetched_at_utc": "2026-10-08T13:35:13.777210+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yqhWD",
+      "raw_file": "raw/profile_yqhWD.json",
+      "fetched_at_utc": "2026-10-08T13:35:15.159524+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yvYke",
+      "raw_file": "raw/profile_yvYke.json",
+      "fetched_at_utc": "2026-10-08T13:35:16.936807+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zluej",
+      "raw_file": "raw/profile_zluej.json",
+      "fetched_at_utc": "2026-10-08T13:35:18.521604+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zm0Ra",
+      "raw_file": "raw/profile_zm0Ra.json",
+      "fetched_at_utc": "2026-10-08T13:35:20.016106+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/znpvb",
+      "raw_file": "raw/profile_znpvb.json",
+      "fetched_at_utc": "2026-10-08T13:35:21.633274+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zzgoG",
+      "raw_file": "raw/profile_zzgoG.json",
+      "fetched_at_utc": "2026-10-08T13:35:23.190561+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zzvID",
+      "raw_file": "raw/profile_zzvID.json",
+      "fetched_at_utc": "2026-10-08T13:35:24.758757+00:00",
+      "cached": false,
+      "cache_path": null
+    }
+  ],
+  "started_at_utc": "2026-10-08T13:28:00.650881+00:00",
+  "input_rows": 1436,
+  "retained_rows": 658,
+  "excluded_rows": 778,
+  "missing_birthday_players": 3
+}

@@ -1,0 +1,568 @@
+{
+  "status": "complete",
+  "source": "https://www.rebas.tw",
+  "started_at_utc": "2026-10-08T12:21:12.651603+00:00",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "levels": [
+    "major",
+    "minor"
+  ],
+  "roles": [
+    "batter",
+    "pitcher"
+  ],
+  "sections": [
+    "standard",
+    "advanced",
+    "new"
+  ],
+  "scope": "regular season, all available players, no rookie/age filter",
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:15.414633+00:00",
+      "rows": 101,
+      "raw_file": "raw/2020_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:17.799816+00:00",
+      "rows": 101,
+      "raw_file": "raw/2020_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:20.988820+00:00",
+      "rows": 101,
+      "raw_file": "raw/2020_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:21.869742+00:00",
+      "rows": 103,
+      "raw_file": "raw/2020_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:22.611385+00:00",
+      "rows": 103,
+      "raw_file": "raw/2020_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:24.747450+00:00",
+      "rows": 103,
+      "raw_file": "raw/2020_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:26.671600+00:00",
+      "rows": 155,
+      "raw_file": "raw/2020_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:27.760052+00:00",
+      "rows": 155,
+      "raw_file": "raw/2020_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:29.411529+00:00",
+      "rows": 155,
+      "raw_file": "raw/2020_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:30.967681+00:00",
+      "rows": 145,
+      "raw_file": "raw/2020_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:31.704792+00:00",
+      "rows": 145,
+      "raw_file": "raw/2020_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:34.160815+00:00",
+      "rows": 145,
+      "raw_file": "raw/2020_minor_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:35.421524+00:00",
+      "rows": 150,
+      "raw_file": "raw/2021_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:36.757556+00:00",
+      "rows": 150,
+      "raw_file": "raw/2021_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:38.514025+00:00",
+      "rows": 150,
+      "raw_file": "raw/2021_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:40.152759+00:00",
+      "rows": 140,
+      "raw_file": "raw/2021_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:41.424620+00:00",
+      "rows": 140,
+      "raw_file": "raw/2021_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2021-fi/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:43.109958+00:00",
+      "rows": 140,
+      "raw_file": "raw/2021_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:44.807531+00:00",
+      "rows": 175,
+      "raw_file": "raw/2021_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:46.235853+00:00",
+      "rows": 175,
+      "raw_file": "raw/2021_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:47.702284+00:00",
+      "rows": 175,
+      "raw_file": "raw/2021_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:47.821662+00:00",
+      "rows": 156,
+      "raw_file": "raw/2021_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:48.892361+00:00",
+      "rows": 156,
+      "raw_file": "raw/2021_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2021-Vw/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:50.558216+00:00",
+      "rows": 156,
+      "raw_file": "raw/2021_minor_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:52.060295+00:00",
+      "rows": 156,
+      "raw_file": "raw/2022_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:53.398526+00:00",
+      "rows": 156,
+      "raw_file": "raw/2022_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:55.156085+00:00",
+      "rows": 156,
+      "raw_file": "raw/2022_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:21:57.157313+00:00",
+      "rows": 137,
+      "raw_file": "raw/2022_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:21:58.143583+00:00",
+      "rows": 137,
+      "raw_file": "raw/2022_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2022-dG/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:21:59.730974+00:00",
+      "rows": 137,
+      "raw_file": "raw/2022_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:01.619441+00:00",
+      "rows": 259,
+      "raw_file": "raw/2022_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:02.909101+00:00",
+      "rows": 259,
+      "raw_file": "raw/2022_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:14.013734+00:00",
+      "rows": 259,
+      "raw_file": "raw/2022_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:14.976579+00:00",
+      "rows": 222,
+      "raw_file": "raw/2022_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:16.902374+00:00",
+      "rows": 222,
+      "raw_file": "raw/2022_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2022-C2/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:18.388714+00:00",
+      "rows": 222,
+      "raw_file": "raw/2022_minor_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:17.694473+00:00",
+      "rows": 149,
+      "raw_file": "raw/2023_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:19.043629+00:00",
+      "rows": 149,
+      "raw_file": "raw/2023_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:20.393114+00:00",
+      "rows": 149,
+      "raw_file": "raw/2023_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:22.099335+00:00",
+      "rows": 147,
+      "raw_file": "raw/2023_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:23.832830+00:00",
+      "rows": 147,
+      "raw_file": "raw/2023_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2023-sk/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:24.852812+00:00",
+      "rows": 147,
+      "raw_file": "raw/2023_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:26.906680+00:00",
+      "rows": 202,
+      "raw_file": "raw/2023_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:28.422458+00:00",
+      "rows": 202,
+      "raw_file": "raw/2023_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:29.695832+00:00",
+      "rows": 202,
+      "raw_file": "raw/2023_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:32.045166+00:00",
+      "rows": 197,
+      "raw_file": "raw/2023_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:33.399967+00:00",
+      "rows": 197,
+      "raw_file": "raw/2023_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2023-GP/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:34.582409+00:00",
+      "rows": 197,
+      "raw_file": "raw/2023_minor_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:35.955083+00:00",
+      "rows": 173,
+      "raw_file": "raw/2024_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:37.560883+00:00",
+      "rows": 173,
+      "raw_file": "raw/2024_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:38.691663+00:00",
+      "rows": 173,
+      "raw_file": "raw/2024_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:40.794292+00:00",
+      "rows": 168,
+      "raw_file": "raw/2024_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:42.057904+00:00",
+      "rows": 168,
+      "raw_file": "raw/2024_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2024-xa/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:43.294782+00:00",
+      "rows": 168,
+      "raw_file": "raw/2024_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:45.205422+00:00",
+      "rows": 194,
+      "raw_file": "raw/2024_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:46.725398+00:00",
+      "rows": 194,
+      "raw_file": "raw/2024_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:47.925927+00:00",
+      "rows": 194,
+      "raw_file": "raw/2024_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:49.756677+00:00",
+      "rows": 196,
+      "raw_file": "raw/2024_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:49.432913+00:00",
+      "rows": 196,
+      "raw_file": "raw/2024_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2024-4l/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:50.707990+00:00",
+      "rows": 196,
+      "raw_file": "raw/2024_minor_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:52.295684+00:00",
+      "rows": 174,
+      "raw_file": "raw/2025_major_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:53.767630+00:00",
+      "rows": 174,
+      "raw_file": "raw/2025_major_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:54.976025+00:00",
+      "rows": 174,
+      "raw_file": "raw/2025_major_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:22:56.905726+00:00",
+      "rows": 168,
+      "raw_file": "raw/2025_major_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:22:58.305849+00:00",
+      "rows": 168,
+      "raw_file": "raw/2025_major_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2025-JO/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:22:59.639336+00:00",
+      "rows": 168,
+      "raw_file": "raw/2025_major_pitcher_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=batter&section=standard",
+      "fetched_at_utc": "2026-10-08T12:23:01.216809+00:00",
+      "rows": 196,
+      "raw_file": "raw/2025_minor_batter_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=batter&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:23:02.671795+00:00",
+      "rows": 196,
+      "raw_file": "raw/2025_minor_batter_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=batter&section=new",
+      "fetched_at_utc": "2026-10-08T12:23:04.454298+00:00",
+      "rows": 196,
+      "raw_file": "raw/2025_minor_batter_new.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=pitcher&section=standard",
+      "fetched_at_utc": "2026-10-08T12:23:05.765830+00:00",
+      "rows": 204,
+      "raw_file": "raw/2025_minor_pitcher_standard.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=pitcher&section=advanced",
+      "fetched_at_utc": "2026-10-08T12:23:07.061617+00:00",
+      "rows": 204,
+      "raw_file": "raw/2025_minor_pitcher_advanced.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2025-ED/leaders?type=pitcher&section=new",
+      "fetched_at_utc": "2026-10-08T12:23:09.232425+00:00",
+      "rows": 204,
+      "raw_file": "raw/2025_minor_pitcher_new.json"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "2020_major_batter.csv",
+      "rows": 101
+    },
+    {
+      "file": "2020_major_pitcher.csv",
+      "rows": 103
+    },
+    {
+      "file": "2020_minor_batter.csv",
+      "rows": 155
+    },
+    {
+      "file": "2020_minor_pitcher.csv",
+      "rows": 145
+    },
+    {
+      "file": "2021_major_batter.csv",
+      "rows": 150
+    },
+    {
+      "file": "2021_major_pitcher.csv",
+      "rows": 140
+    },
+    {
+      "file": "2021_minor_batter.csv",
+      "rows": 175
+    },
+    {
+      "file": "2021_minor_pitcher.csv",
+      "rows": 156
+    },
+    {
+      "file": "2022_major_batter.csv",
+      "rows": 156
+    },
+    {
+      "file": "2022_major_pitcher.csv",
+      "rows": 137
+    },
+    {
+      "file": "2022_minor_batter.csv",
+      "rows": 259
+    },
+    {
+      "file": "2022_minor_pitcher.csv",
+      "rows": 222
+    },
+    {
+      "file": "2023_major_batter.csv",
+      "rows": 149
+    },
+    {
+      "file": "2023_major_pitcher.csv",
+      "rows": 147
+    },
+    {
+      "file": "2023_minor_batter.csv",
+      "rows": 202
+    },
+    {
+      "file": "2023_minor_pitcher.csv",
+      "rows": 197
+    },
+    {
+      "file": "2024_major_batter.csv",
+      "rows": 173
+    },
+    {
+      "file": "2024_major_pitcher.csv",
+      "rows": 168
+    },
+    {
+      "file": "2024_minor_batter.csv",
+      "rows": 194
+    },
+    {
+      "file": "2024_minor_pitcher.csv",
+      "rows": 196
+    },
+    {
+      "file": "2025_major_batter.csv",
+      "rows": 174
+    },
+    {
+      "file": "2025_major_pitcher.csv",
+      "rows": 168
+    },
+    {
+      "file": "2025_minor_batter.csv",
+      "rows": 196
+    },
+    {
+      "file": "2025_minor_pitcher.csv",
+      "rows": 204
+    },
+    {
+      "file": "all_batter.csv",
+      "rows": 2084
+    },
+    {
+      "file": "all_pitcher.csv",
+      "rows": 1983
+    }
+  ],
+  "finished_at_utc": "2026-10-08T12:23:09.326760+00:00"
+}

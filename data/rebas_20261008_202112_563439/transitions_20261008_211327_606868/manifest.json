@@ -1,0 +1,620 @@
+{
+  "status": "failed",
+  "source_csv": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/all_batter_same_season.csv",
+  "started_at_utc": "2026-10-08T13:13:27.614300+00:00",
+  "requested_player_seasons": 778,
+  "completed_player_seasons": 13,
+  "definition": "consecutive appearance-level segments; not registration dates",
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/formal/players/00Or0/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_00Or0.json",
+      "fetched_at_utc": "2026-10-08T13:13:29.477727+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/E7q62",
+      "raw_file": "raw/box_CPBLmi-2020-cP_E7q62.json",
+      "fetched_at_utc": "2026-10-08T13:13:31.224494+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/ML5iQ",
+      "raw_file": "raw/box_CPBLmi-2020-cP_ML5iQ.json",
+      "fetched_at_utc": "2026-10-08T13:13:32.379501+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/00Or0/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_00Or0.json",
+      "fetched_at_utc": "2026-10-08T13:13:34.996177+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/rbUFJ",
+      "raw_file": "raw/box_CPBL-2020-KS_rbUFJ.json",
+      "fetched_at_utc": "2026-10-08T13:13:33.723922+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/1sjWc",
+      "raw_file": "raw/box_CPBL-2020-KS_1sjWc.json",
+      "fetched_at_utc": "2026-10-08T13:13:34.673901+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/sfC9H",
+      "raw_file": "raw/box_CPBL-2020-KS_sfC9H.json",
+      "fetched_at_utc": "2026-10-08T13:13:36.542617+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/bU83s",
+      "raw_file": "raw/box_CPBL-2020-KS_bU83s.json",
+      "fetched_at_utc": "2026-10-08T13:13:38.089486+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/f2Y5x",
+      "raw_file": "raw/box_CPBL-2020-KS_f2Y5x.json",
+      "fetched_at_utc": "2026-10-08T13:13:39.161786+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/E4qBM",
+      "raw_file": "raw/box_CPBL-2020-KS_E4qBM.json",
+      "fetched_at_utc": "2026-10-08T13:13:41.103793+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/U1FfY",
+      "raw_file": "raw/box_CPBL-2020-KS_U1FfY.json",
+      "fetched_at_utc": "2026-10-08T13:13:42.675406+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/IBkqg",
+      "raw_file": "raw/box_CPBL-2020-KS_IBkqg.json",
+      "fetched_at_utc": "2026-10-08T13:13:43.744948+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/76O12",
+      "raw_file": "raw/box_CPBL-2020-KS_76O12.json",
+      "fetched_at_utc": "2026-10-08T13:13:45.838127+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/D9AFm",
+      "raw_file": "raw/box_CPBL-2020-KS_D9AFm.json",
+      "fetched_at_utc": "2026-10-08T13:13:47.129433+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/vezqg",
+      "raw_file": "raw/box_CPBL-2020-KS_vezqg.json",
+      "fetched_at_utc": "2026-10-08T13:13:48.441525+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/KU7Rv",
+      "raw_file": "raw/box_CPBL-2020-KS_KU7Rv.json",
+      "fetched_at_utc": "2026-10-08T13:13:50.634044+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/WkOep",
+      "raw_file": "raw/box_CPBL-2020-KS_WkOep.json",
+      "fetched_at_utc": "2026-10-08T13:13:53.175077+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/03MZ/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_03MZ.json",
+      "fetched_at_utc": "2026-10-08T13:13:54.633566+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/03MZ/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_03MZ.json",
+      "fetched_at_utc": "2026-10-08T13:13:55.376226+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/3p0ll",
+      "raw_file": "raw/box_CPBL-2020-KS_3p0ll.json",
+      "fetched_at_utc": "2026-10-08T13:13:57.012830+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0CD6G/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0CD6G.json",
+      "fetched_at_utc": "2026-10-08T13:13:58.586303+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0CD6G/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0CD6G.json",
+      "fetched_at_utc": "2026-10-08T13:14:00.868187+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0WzSK/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0WzSK.json",
+      "fetched_at_utc": "2026-10-08T13:14:02.863625+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/7EIaL",
+      "raw_file": "raw/box_CPBLmi-2020-cP_7EIaL.json",
+      "fetched_at_utc": "2026-10-08T13:14:04.381026+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/PYNIN",
+      "raw_file": "raw/box_CPBLmi-2020-cP_PYNIN.json",
+      "fetched_at_utc": "2026-10-08T13:14:04.769486+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0WzSK/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0WzSK.json",
+      "fetched_at_utc": "2026-10-08T13:14:04.706867+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0fd4d/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0fd4d.json",
+      "fetched_at_utc": "2026-10-08T13:14:07.606636+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0fd4d/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0fd4d.json",
+      "fetched_at_utc": "2026-10-08T13:14:09.856397+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/W1tFT",
+      "raw_file": "raw/box_CPBL-2020-KS_W1tFT.json",
+      "fetched_at_utc": "2026-10-08T13:14:12.020483+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0pBZx/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_0pBZx.json",
+      "fetched_at_utc": "2026-10-08T13:14:12.740915+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/0pBZx/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_0pBZx.json",
+      "fetched_at_utc": "2026-10-08T13:14:16.736604+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/zi89r",
+      "raw_file": "raw/box_CPBL-2020-KS_zi89r.json",
+      "fetched_at_utc": "2026-10-08T13:14:18.237060+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2mO1b/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_2mO1b.json",
+      "fetched_at_utc": "2026-10-08T13:14:19.631599+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/VhXAJ",
+      "raw_file": "raw/box_CPBLmi-2020-cP_VhXAJ.json",
+      "fetched_at_utc": "2026-10-08T13:14:21.189270+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/2mO1b/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_2mO1b.json",
+      "fetched_at_utc": "2026-10-08T13:14:22.346434+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/374gk/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_374gk.json",
+      "fetched_at_utc": "2026-10-08T13:14:25.723079+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/374gk/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_374gk.json",
+      "fetched_at_utc": "2026-10-08T13:14:28.565349+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3z7Pi/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_3z7Pi.json",
+      "fetched_at_utc": "2026-10-08T13:14:29.479026+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/3z7Pi/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_3z7Pi.json",
+      "fetched_at_utc": "2026-10-08T13:14:32.513867+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/tS30s",
+      "raw_file": "raw/box_CPBL-2020-KS_tS30s.json",
+      "fetched_at_utc": "2026-10-08T13:14:33.242863+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/VZmMU",
+      "raw_file": "raw/box_CPBL-2020-KS_VZmMU.json",
+      "fetched_at_utc": "2026-10-08T13:14:34.764324+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/aPtWG",
+      "raw_file": "raw/box_CPBL-2020-KS_aPtWG.json",
+      "fetched_at_utc": "2026-10-08T13:14:34.631664+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/XmZ8R",
+      "raw_file": "raw/box_CPBL-2020-KS_XmZ8R.json",
+      "fetched_at_utc": "2026-10-08T13:14:35.508296+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/7Vr6C",
+      "raw_file": "raw/box_CPBL-2020-KS_7Vr6C.json",
+      "fetched_at_utc": "2026-10-08T13:14:36.979290+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/s03oh",
+      "raw_file": "raw/box_CPBL-2020-KS_s03oh.json",
+      "fetched_at_utc": "2026-10-08T13:14:39.355666+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/d55wI",
+      "raw_file": "raw/box_CPBL-2020-KS_d55wI.json",
+      "fetched_at_utc": "2026-10-08T13:14:40.150345+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/I1N9X",
+      "raw_file": "raw/box_CPBL-2020-KS_I1N9X.json",
+      "fetched_at_utc": "2026-10-08T13:14:42.398992+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/VZ36e",
+      "raw_file": "raw/box_CPBL-2020-KS_VZ36e.json",
+      "fetched_at_utc": "2026-10-08T13:14:43.163017+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/k8D2P",
+      "raw_file": "raw/box_CPBL-2020-KS_k8D2P.json",
+      "fetched_at_utc": "2026-10-08T13:14:44.786219+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/hk9mN",
+      "raw_file": "raw/box_CPBL-2020-KS_hk9mN.json",
+      "fetched_at_utc": "2026-10-08T13:14:46.896653+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/vezqg",
+      "raw_file": "raw/box_CPBL-2020-KS_vezqg.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/transitions_20261008_211327_606868/raw/box_CPBL-2020-KS_vezqg.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/5pub7",
+      "raw_file": "raw/box_CPBL-2020-KS_5pub7.json",
+      "fetched_at_utc": "2026-10-08T13:14:47.741333+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/xjlKP",
+      "raw_file": "raw/box_CPBL-2020-KS_xjlKP.json",
+      "fetched_at_utc": "2026-10-08T13:14:49.195094+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/6CIBz/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_6CIBz.json",
+      "fetched_at_utc": "2026-10-08T13:14:50.927673+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/T1xE4",
+      "raw_file": "raw/box_CPBLmi-2020-cP_T1xE4.json",
+      "fetched_at_utc": "2026-10-08T13:14:52.232242+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBLmi-2020-cP/games/LrshJ",
+      "raw_file": "raw/box_CPBLmi-2020-cP_LrshJ.json",
+      "fetched_at_utc": "2026-10-08T13:14:54.415445+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/6CIBz/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_6CIBz.json",
+      "fetched_at_utc": "2026-10-08T13:14:55.945684+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/APGpI",
+      "raw_file": "raw/box_CPBL-2020-KS_APGpI.json",
+      "fetched_at_utc": "2026-10-08T13:14:56.701480+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/98pVk",
+      "raw_file": "raw/box_CPBL-2020-KS_98pVk.json",
+      "fetched_at_utc": "2026-10-08T13:14:59.014600+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/zHmIr",
+      "raw_file": "raw/box_CPBL-2020-KS_zHmIr.json",
+      "fetched_at_utc": "2026-10-08T13:14:59.708443+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/ekX48",
+      "raw_file": "raw/box_CPBL-2020-KS_ekX48.json",
+      "fetched_at_utc": "2026-10-08T13:15:01.231006+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/h0fxr",
+      "raw_file": "raw/box_CPBL-2020-KS_h0fxr.json",
+      "fetched_at_utc": "2026-10-08T13:15:03.475332+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/s03oh",
+      "raw_file": "raw/box_CPBL-2020-KS_s03oh.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/transitions_20261008_211327_606868/raw/box_CPBL-2020-KS_s03oh.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/aABnJ",
+      "raw_file": "raw/box_CPBL-2020-KS_aABnJ.json",
+      "fetched_at_utc": "2026-10-08T13:15:04.326825+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/p7aTa",
+      "raw_file": "raw/box_CPBL-2020-KS_p7aTa.json",
+      "fetched_at_utc": "2026-10-08T13:15:06.098677+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/5pub7",
+      "raw_file": "raw/box_CPBL-2020-KS_5pub7.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/transitions_20261008_211327_606868/raw/box_CPBL-2020-KS_5pub7.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SWLU/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_7SWLU.json",
+      "fetched_at_utc": "2026-10-08T13:15:05.667890+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7SWLU/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_7SWLU.json",
+      "fetched_at_utc": "2026-10-08T13:15:07.163553+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7eWTJ/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_7eWTJ.json",
+      "fetched_at_utc": "2026-10-08T13:15:08.155184+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7eWTJ/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_7eWTJ.json",
+      "fetched_at_utc": "2026-10-08T13:15:11.180227+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/4nLKA",
+      "raw_file": "raw/box_CPBL-2020-KS_4nLKA.json",
+      "fetched_at_utc": "2026-10-08T13:15:11.875455+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/OlZjC",
+      "raw_file": "raw/box_CPBL-2020-KS_OlZjC.json",
+      "fetched_at_utc": "2026-10-08T13:15:13.428461+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/sfC9H",
+      "raw_file": "raw/box_CPBL-2020-KS_sfC9H.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/transitions_20261008_211327_606868/raw/box_CPBL-2020-KS_sfC9H.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7vTQV/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_7vTQV.json",
+      "fetched_at_utc": "2026-10-08T13:15:15.617323+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/7vTQV/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_7vTQV.json",
+      "fetched_at_utc": "2026-10-08T13:15:18.047782+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8J0xd/seasons/CPBLmi-2020-cP/logs",
+      "raw_file": "raw/CPBLmi-2020-cP_8J0xd.json",
+      "fetched_at_utc": "2026-10-08T13:15:19.124298+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/formal/players/8J0xd/seasons/CPBL-2020-KS/logs",
+      "raw_file": "raw/CPBL-2020-KS_8J0xd.json",
+      "fetched_at_utc": "2026-10-08T13:15:22.558426+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/jBzjI",
+      "raw_file": "raw/box_CPBL-2020-KS_jBzjI.json",
+      "fetched_at_utc": "2026-10-08T13:15:23.379258+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/H0BQJ",
+      "raw_file": "raw/box_CPBL-2020-KS_H0BQJ.json",
+      "fetched_at_utc": "2026-10-08T13:15:24.902045+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/MK9O2",
+      "raw_file": "raw/box_CPBL-2020-KS_MK9O2.json",
+      "fetched_at_utc": "2026-10-08T13:15:27.198974+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/98CPW",
+      "raw_file": "raw/box_CPBL-2020-KS_98CPW.json",
+      "fetched_at_utc": "2026-10-08T13:15:27.952201+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/6s0Dr",
+      "raw_file": "raw/box_CPBL-2020-KS_6s0Dr.json",
+      "fetched_at_utc": "2026-10-08T13:15:29.504968+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/OlZjC",
+      "raw_file": "raw/box_CPBL-2020-KS_OlZjC.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_20261008_202112_563439/transitions_20261008_211327_606868/raw/box_CPBL-2020-KS_OlZjC.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/WXs57",
+      "raw_file": "raw/box_CPBL-2020-KS_WXs57.json",
+      "fetched_at_utc": "2026-10-08T13:15:31.704773+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/INp2Y",
+      "raw_file": "raw/box_CPBL-2020-KS_INp2Y.json",
+      "fetched_at_utc": "2026-10-08T13:15:32.499747+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/CXbQl",
+      "raw_file": "raw/box_CPBL-2020-KS_CXbQl.json",
+      "fetched_at_utc": "2026-10-08T13:15:33.931207+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/2XQgH",
+      "raw_file": "raw/box_CPBL-2020-KS_2XQgH.json",
+      "fetched_at_utc": "2026-10-08T13:15:36.264914+00:00",
+      "cached": false,
+      "cache_path": null
+    }
+  ],
+  "error": "Expected one batting box row for 8J0xd, got 0: https://www.rebas.tw/api/seasons/CPBL-2020-KS/games/2XQgH"
+}

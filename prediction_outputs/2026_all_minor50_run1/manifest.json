@@ -1,0 +1,993 @@
+{
+  "status": "complete",
+  "year": 2026,
+  "source_data": "/mnt/c/Users/王政傑/中職數劇競賽/data/rebas_2026_prediction1",
+  "model_run": "/mnt/c/Users/王政傑/中職數劇競賽/.training_outputsminor50_major_pa_weighted_run1",
+  "max_age_jan1": 25,
+  "minor_pa_exclusive_minimum": 50,
+  "major_pa_required": null,
+  "major_pa_filter": "none",
+  "major_appearances_allowed": true,
+  "features": [
+    "minor_AVG",
+    "minor_OBP",
+    "minor_SLG",
+    "minor_OPS",
+    "minor_ISO",
+    "minor_K_pct",
+    "minor_BB_pct",
+    "minor_HR_PA",
+    "minor_HBP_PA",
+    "minor_Double_AB",
+    "minor_Triple_AB"
+  ],
+  "targets": [
+    "major_AVG",
+    "major_OBP",
+    "major_SLG",
+    "major_HR_PA"
+  ],
+  "major_reference_source": "saved season leaderboard; absent records remain missing",
+  "feature_window": "full_2026_minor_regular_season",
+  "source_crawl_started_at_utc": "2026-10-19T02:16:28.651657+00:00",
+  "source_crawl_finished_at_utc": "2026-10-19T02:16:38.321063+00:00",
+  "started_at_utc": "2026-10-19T02:35:42.011944+00:00",
+  "warning": "Exploratory full-minor-season inference, not a training episode. Major PA is unrestricted. Major outcomes are not scored; overlapping minor/major season windows are not a prospective validation.",
+  "requests": [
+    {
+      "url": "https://www.rebas.tw/api/players/0UuMJ",
+      "raw_file": "raw/profile_0UuMJ.json",
+      "fetched_at_utc": "2026-10-19T02:35:43.795077+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/0fd4d",
+      "raw_file": "raw/profile_0fd4d.json",
+      "fetched_at_utc": "2026-10-19T02:35:45.654316+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/13721",
+      "raw_file": "raw/profile_13721.json",
+      "fetched_at_utc": "2026-10-19T02:35:47.301202+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/1EqwJ",
+      "raw_file": "raw/profile_1EqwJ.json",
+      "fetched_at_utc": "2026-10-19T02:35:48.467510+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/1YOcf",
+      "raw_file": "raw/profile_1YOcf.json",
+      "fetched_at_utc": "2026-10-19T02:35:50.341903+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/2QmgM",
+      "raw_file": "raw/profile_2QmgM.json",
+      "fetched_at_utc": "2026-10-19T02:35:51.827558+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3M1Jq",
+      "raw_file": "raw/profile_3M1Jq.json",
+      "fetched_at_utc": "2026-10-19T02:35:53.175439+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/3zbEo",
+      "raw_file": "raw/profile_3zbEo.json",
+      "fetched_at_utc": "2026-10-19T02:35:55.035669+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/54TAw",
+      "raw_file": "raw/profile_54TAw.json",
+      "fetched_at_utc": "2026-10-19T02:35:54.280297+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/625kG",
+      "raw_file": "raw/profile_625kG.json",
+      "fetched_at_utc": "2026-10-19T02:35:55.597474+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7TPaU",
+      "raw_file": "raw/profile_7TPaU.json",
+      "fetched_at_utc": "2026-10-19T02:35:57.505181+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7ankf",
+      "raw_file": "raw/profile_7ankf.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_7ankf.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/7m4NU",
+      "raw_file": "raw/profile_7m4NU.json",
+      "fetched_at_utc": "2026-10-19T02:35:59.025087+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/84OaY",
+      "raw_file": "raw/profile_84OaY.json",
+      "fetched_at_utc": "2026-10-19T02:36:00.344548+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8J0xd",
+      "raw_file": "raw/profile_8J0xd.json",
+      "fetched_at_utc": "2026-10-19T02:36:02.020484+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8JvUf",
+      "raw_file": "raw/profile_8JvUf.json",
+      "fetched_at_utc": "2026-10-19T02:36:03.588403+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/8KmAn",
+      "raw_file": "raw/profile_8KmAn.json",
+      "fetched_at_utc": "2026-10-19T02:36:04.997277+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/AMRSK",
+      "raw_file": "raw/profile_AMRSK.json",
+      "fetched_at_utc": "2026-10-19T02:36:06.671779+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/B2um0",
+      "raw_file": "raw/profile_B2um0.json",
+      "fetched_at_utc": "2026-10-19T02:36:08.440222+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BMBs8",
+      "raw_file": "raw/profile_BMBs8.json",
+      "fetched_at_utc": "2026-10-19T02:36:09.615593+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BRWoe",
+      "raw_file": "raw/profile_BRWoe.json",
+      "fetched_at_utc": "2026-10-19T02:36:11.383227+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BhwEG",
+      "raw_file": "raw/profile_BhwEG.json",
+      "fetched_at_utc": "2026-10-19T02:36:13.021782+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/BoUe1",
+      "raw_file": "raw/profile_BoUe1.json",
+      "fetched_at_utc": "2026-10-19T02:36:14.330047+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/CWOy2",
+      "raw_file": "raw/profile_CWOy2.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_CWOy2.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/EcVi3",
+      "raw_file": "raw/profile_EcVi3.json",
+      "fetched_at_utc": "2026-10-19T02:36:16.076586+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Excm5",
+      "raw_file": "raw/profile_Excm5.json",
+      "fetched_at_utc": "2026-10-19T02:36:17.654177+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FGizK",
+      "raw_file": "raw/profile_FGizK.json",
+      "fetched_at_utc": "2026-10-19T02:36:18.972789+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/FcO0A",
+      "raw_file": "raw/profile_FcO0A.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_FcO0A.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/G6U5F",
+      "raw_file": "raw/profile_G6U5F.json",
+      "fetched_at_utc": "2026-10-19T02:36:20.780720+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/G8Yd1",
+      "raw_file": "raw/profile_G8Yd1.json",
+      "fetched_at_utc": "2026-10-19T02:36:22.560053+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/GrjvL",
+      "raw_file": "raw/profile_GrjvL.json",
+      "fetched_at_utc": "2026-10-19T02:36:23.822081+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ID8FP",
+      "raw_file": "raw/profile_ID8FP.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_ID8FP.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ISZMp",
+      "raw_file": "raw/profile_ISZMp.json",
+      "fetched_at_utc": "2026-10-19T02:36:25.472381+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/IYo8c",
+      "raw_file": "raw/profile_IYo8c.json",
+      "fetched_at_utc": "2026-10-19T02:36:24.772528+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/J1KRP",
+      "raw_file": "raw/profile_J1KRP.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_J1KRP.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JID82",
+      "raw_file": "raw/profile_JID82.json",
+      "fetched_at_utc": "2026-10-19T02:36:26.023221+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/JQngL",
+      "raw_file": "raw/profile_JQngL.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_JQngL.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/KH25g",
+      "raw_file": "raw/profile_KH25g.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_KH25g.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/KWinD",
+      "raw_file": "raw/profile_KWinD.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_KWinD.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/LFYjs",
+      "raw_file": "raw/profile_LFYjs.json",
+      "fetched_at_utc": "2026-10-19T02:36:27.717036+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/M1D5Z",
+      "raw_file": "raw/profile_M1D5Z.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_M1D5Z.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/MN4zk",
+      "raw_file": "raw/profile_MN4zk.json",
+      "fetched_at_utc": "2026-10-19T02:36:29.277218+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/N6NUc",
+      "raw_file": "raw/profile_N6NUc.json",
+      "fetched_at_utc": "2026-10-19T02:36:30.647449+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Ob7KB",
+      "raw_file": "raw/profile_Ob7KB.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_Ob7KB.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/P4Fe3",
+      "raw_file": "raw/profile_P4Fe3.json",
+      "fetched_at_utc": "2026-10-19T02:36:32.327779+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/P5qYX",
+      "raw_file": "raw/profile_P5qYX.json",
+      "fetched_at_utc": "2026-10-19T02:36:33.861714+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PBapN",
+      "raw_file": "raw/profile_PBapN.json",
+      "fetched_at_utc": "2026-10-19T02:36:35.252611+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PoOO0",
+      "raw_file": "raw/profile_PoOO0.json",
+      "fetched_at_utc": "2026-10-19T02:36:37.166453+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/PtuDN",
+      "raw_file": "raw/profile_PtuDN.json",
+      "fetched_at_utc": "2026-10-19T02:36:38.590141+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Q4x6M",
+      "raw_file": "raw/profile_Q4x6M.json",
+      "fetched_at_utc": "2026-10-19T02:36:39.858686+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Qeh8Y",
+      "raw_file": "raw/profile_Qeh8Y.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_Qeh8Y.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Qznkv",
+      "raw_file": "raw/profile_Qznkv.json",
+      "fetched_at_utc": "2026-10-19T02:36:41.696745+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RCSOc",
+      "raw_file": "raw/profile_RCSOc.json",
+      "fetched_at_utc": "2026-10-19T02:36:43.073746+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RKAsK",
+      "raw_file": "raw/profile_RKAsK.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_RKAsK.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Rk0RP",
+      "raw_file": "raw/profile_Rk0RP.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_Rk0RP.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/RkMfE",
+      "raw_file": "raw/profile_RkMfE.json",
+      "fetched_at_utc": "2026-10-19T02:36:44.500956+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/SCI7M",
+      "raw_file": "raw/profile_SCI7M.json",
+      "fetched_at_utc": "2026-10-19T02:36:46.257373+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/SDm7m",
+      "raw_file": "raw/profile_SDm7m.json",
+      "fetched_at_utc": "2026-10-19T02:36:47.880717+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/STlx2",
+      "raw_file": "raw/profile_STlx2.json",
+      "fetched_at_utc": "2026-10-19T02:36:49.141254+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/U4xQp",
+      "raw_file": "raw/profile_U4xQp.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_U4xQp.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UVB2T",
+      "raw_file": "raw/profile_UVB2T.json",
+      "fetched_at_utc": "2026-10-19T02:36:51.026698+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UVW1k",
+      "raw_file": "raw/profile_UVW1k.json",
+      "fetched_at_utc": "2026-10-19T02:36:52.426358+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/UvarK",
+      "raw_file": "raw/profile_UvarK.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_UvarK.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/W5kEO",
+      "raw_file": "raw/profile_W5kEO.json",
+      "fetched_at_utc": "2026-10-19T02:36:53.729351+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WLCcN",
+      "raw_file": "raw/profile_WLCcN.json",
+      "fetched_at_utc": "2026-10-19T02:36:55.619742+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WPyQB",
+      "raw_file": "raw/profile_WPyQB.json",
+      "fetched_at_utc": "2026-10-19T02:36:56.324183+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WRKXS",
+      "raw_file": "raw/profile_WRKXS.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_WRKXS.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WeQIm",
+      "raw_file": "raw/profile_WeQIm.json",
+      "fetched_at_utc": "2026-10-19T02:36:57.463312+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WmEuJ",
+      "raw_file": "raw/profile_WmEuJ.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_WmEuJ.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Wp3ph",
+      "raw_file": "raw/profile_Wp3ph.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_Wp3ph.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/WvAMI",
+      "raw_file": "raw/profile_WvAMI.json",
+      "fetched_at_utc": "2026-10-19T02:36:58.329793+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Y04qB",
+      "raw_file": "raw/profile_Y04qB.json",
+      "fetched_at_utc": "2026-10-19T02:36:59.887485+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Y0Fp0",
+      "raw_file": "raw/profile_Y0Fp0.json",
+      "fetched_at_utc": "2026-10-19T02:37:01.425802+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Y1OFa",
+      "raw_file": "raw/profile_Y1OFa.json",
+      "fetched_at_utc": "2026-10-19T02:37:03.567414+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/Y8Y2M",
+      "raw_file": "raw/profile_Y8Y2M.json",
+      "fetched_at_utc": "2026-10-19T02:37:05.821585+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ZkrhR",
+      "raw_file": "raw/profile_ZkrhR.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_ZkrhR.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ZtyCx",
+      "raw_file": "raw/profile_ZtyCx.json",
+      "fetched_at_utc": "2026-10-19T02:37:06.406662+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ZvyKT",
+      "raw_file": "raw/profile_ZvyKT.json",
+      "fetched_at_utc": "2026-10-19T02:37:07.967901+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/a45g",
+      "raw_file": "raw/profile_a45g.json",
+      "fetched_at_utc": "2026-10-19T02:37:09.376347+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/a4cUR",
+      "raw_file": "raw/profile_a4cUR.json",
+      "fetched_at_utc": "2026-10-19T02:37:10.636164+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/b3UAW",
+      "raw_file": "raw/profile_b3UAW.json",
+      "fetched_at_utc": "2026-10-19T02:37:12.452197+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/bmiMl",
+      "raw_file": "raw/profile_bmiMl.json",
+      "fetched_at_utc": "2026-10-19T02:37:14.038758+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dIa2u",
+      "raw_file": "raw/profile_dIa2u.json",
+      "fetched_at_utc": "2026-10-19T02:37:15.317976+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dNaQr",
+      "raw_file": "raw/profile_dNaQr.json",
+      "fetched_at_utc": "2026-10-19T02:37:17.114096+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/dgRRh",
+      "raw_file": "raw/profile_dgRRh.json",
+      "fetched_at_utc": "2026-10-19T02:37:18.661163+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/euIsf",
+      "raw_file": "raw/profile_euIsf.json",
+      "fetched_at_utc": "2026-10-19T02:37:20.087700+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/h4Peg",
+      "raw_file": "raw/profile_h4Peg.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_h4Peg.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/h5czt",
+      "raw_file": "raw/profile_h5czt.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_h5czt.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/hMSPP",
+      "raw_file": "raw/profile_hMSPP.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_hMSPP.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/hfw2S",
+      "raw_file": "raw/profile_hfw2S.json",
+      "fetched_at_utc": "2026-10-19T02:37:21.762940+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iAcZZ",
+      "raw_file": "raw/profile_iAcZZ.json",
+      "fetched_at_utc": "2026-10-19T02:37:23.385435+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/iQmL8",
+      "raw_file": "raw/profile_iQmL8.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_iQmL8.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/j33XE",
+      "raw_file": "raw/profile_j33XE.json",
+      "fetched_at_utc": "2026-10-19T02:37:24.693428+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/jEljN",
+      "raw_file": "raw/profile_jEljN.json",
+      "fetched_at_utc": "2026-10-19T02:37:26.483496+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/jLMPc",
+      "raw_file": "raw/profile_jLMPc.json",
+      "fetched_at_utc": "2026-10-19T02:37:25.673907+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/jSeis",
+      "raw_file": "raw/profile_jSeis.json",
+      "fetched_at_utc": "2026-10-19T02:37:27.079787+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/kUIrJ",
+      "raw_file": "raw/profile_kUIrJ.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_kUIrJ.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/kVLMY",
+      "raw_file": "raw/profile_kVLMY.json",
+      "fetched_at_utc": "2026-10-19T02:37:28.866555+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/krwFy",
+      "raw_file": "raw/profile_krwFy.json",
+      "fetched_at_utc": "2026-10-19T02:37:30.451980+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/lWSaS",
+      "raw_file": "raw/profile_lWSaS.json",
+      "fetched_at_utc": "2026-10-19T02:37:31.743334+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ldmM0",
+      "raw_file": "raw/profile_ldmM0.json",
+      "fetched_at_utc": "2026-10-19T02:37:33.637844+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/m6tXZ",
+      "raw_file": "raw/profile_m6tXZ.json",
+      "fetched_at_utc": "2026-10-19T02:37:35.245310+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nL5L",
+      "raw_file": "raw/profile_nL5L.json",
+      "fetched_at_utc": "2026-10-19T02:37:36.395546+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/nR7sB",
+      "raw_file": "raw/profile_nR7sB.json",
+      "fetched_at_utc": "2026-10-19T02:37:38.143587+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/narc8",
+      "raw_file": "raw/profile_narc8.json",
+      "fetched_at_utc": "2026-10-19T02:37:39.753658+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/o8dBe",
+      "raw_file": "raw/profile_o8dBe.json",
+      "fetched_at_utc": "2026-10-19T02:37:41.068708+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/oYqGo",
+      "raw_file": "raw/profile_oYqGo.json",
+      "fetched_at_utc": "2026-10-19T02:37:42.851118+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/p84Nx",
+      "raw_file": "raw/profile_p84Nx.json",
+      "fetched_at_utc": "2026-10-19T02:37:44.353852+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/pAMDg",
+      "raw_file": "raw/profile_pAMDg.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_pAMDg.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/pCoH1",
+      "raw_file": "raw/profile_pCoH1.json",
+      "fetched_at_utc": "2026-10-19T02:37:45.719259+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/pKHDZ",
+      "raw_file": "raw/profile_pKHDZ.json",
+      "fetched_at_utc": "2026-10-19T02:37:47.608317+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/pjM1N",
+      "raw_file": "raw/profile_pjM1N.json",
+      "fetched_at_utc": "2026-10-19T02:37:48.991425+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/psHWp",
+      "raw_file": "raw/profile_psHWp.json",
+      "fetched_at_utc": "2026-10-19T02:37:50.395513+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qLpqc",
+      "raw_file": "raw/profile_qLpqc.json",
+      "fetched_at_utc": "2026-10-19T02:37:52.201069+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/qgIhF",
+      "raw_file": "raw/profile_qgIhF.json",
+      "fetched_at_utc": "2026-10-19T02:37:53.796866+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/s6QQp",
+      "raw_file": "raw/profile_s6QQp.json",
+      "fetched_at_utc": "2026-10-19T02:37:55.124427+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/sWaqS",
+      "raw_file": "raw/profile_sWaqS.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_sWaqS.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/svO50",
+      "raw_file": "raw/profile_svO50.json",
+      "fetched_at_utc": "2026-10-19T02:37:54.637497+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/tOOgq",
+      "raw_file": "raw/profile_tOOgq.json",
+      "fetched_at_utc": "2026-10-19T02:37:56.116322+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/tSVhs",
+      "raw_file": "raw/profile_tSVhs.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_tSVhs.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ta2z0",
+      "raw_file": "raw/profile_ta2z0.json",
+      "fetched_at_utc": "2026-10-19T02:37:57.525239+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uACoL",
+      "raw_file": "raw/profile_uACoL.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_uACoL.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uKyUf",
+      "raw_file": "raw/profile_uKyUf.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_uKyUf.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ubS2f",
+      "raw_file": "raw/profile_ubS2f.json",
+      "fetched_at_utc": "2026-10-19T02:37:59.356038+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ueH7u",
+      "raw_file": "raw/profile_ueH7u.json",
+      "fetched_at_utc": "2026-10-19T02:38:00.962476+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/uokqM",
+      "raw_file": "raw/profile_uokqM.json",
+      "fetched_at_utc": "2026-10-19T02:38:02.206670+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vBAPT",
+      "raw_file": "raw/profile_vBAPT.json",
+      "fetched_at_utc": "2026-10-19T02:38:03.954867+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/vxQ8H",
+      "raw_file": "raw/profile_vxQ8H.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_vxQ8H.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/xAEHG",
+      "raw_file": "raw/profile_xAEHG.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_xAEHG.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/xZBmj",
+      "raw_file": "raw/profile_xZBmj.json",
+      "fetched_at_utc": "2026-10-19T02:38:05.513586+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/yVVZM",
+      "raw_file": "raw/profile_yVVZM.json",
+      "fetched_at_utc": "2026-10-19T02:38:06.825262+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/ygzxw",
+      "raw_file": "raw/profile_ygzxw.json",
+      "fetched_at_utc": null,
+      "cached": true,
+      "cache_path": "/mnt/c/Users/王政傑/中職數劇競賽/prediction_outputs/2026_run1/raw/profile_ygzxw.json"
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zGfee",
+      "raw_file": "raw/profile_zGfee.json",
+      "fetched_at_utc": "2026-10-19T02:38:08.612230+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zRABu",
+      "raw_file": "raw/profile_zRABu.json",
+      "fetched_at_utc": "2026-10-19T02:38:10.226761+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zbFte",
+      "raw_file": "raw/profile_zbFte.json",
+      "fetched_at_utc": "2026-10-19T02:38:11.565454+00:00",
+      "cached": false,
+      "cache_path": null
+    },
+    {
+      "url": "https://www.rebas.tw/api/players/zpOzg",
+      "raw_file": "raw/profile_zpOzg.json",
+      "fetched_at_utc": "2026-10-19T02:38:13.348025+00:00",
+      "cached": false,
+      "cache_path": null
+    }
+  ],
+  "predicted_players": 95,
+  "excluded_players": 115,
+  "completed_at_utc": "2026-10-19T02:38:13.376093+00:00"
+}
