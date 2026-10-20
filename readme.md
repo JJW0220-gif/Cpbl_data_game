@@ -5,8 +5,6 @@
 目前建模與預測以**打者**為主；資料蒐集工具也支援投手，但尚未建立對應的投手預測模型。
 
 > **目前模型使用 2020–2025 年資料訓練。2026 年資料只作推論，不會在預測過程中重新訓練或調整模型。**
->
-> 2026 年預測對象已改為所有「二軍 PA >50、年初實足年齡 ≤25 歲」的打者，**不限制一軍 PA 或出賽紀錄**。先前「一軍 PA＝0」的條件已移除。
 
 ## 1. 研究設計
 
@@ -98,11 +96,7 @@ conda activate datagame
 python -m pip install -r ./requirements_training.txt
 ```
 
-> 載入既有模型應使用訓練時的套件環境。預測程式會檢查 scikit-learn 版本是否與模型紀錄相同；僅滿足相依檔的最低版本，不保證能載入所有舊模型。只載入可信來源的 joblib 檔案。
 
-**WSL 路徑使用 `/`。** 不要在 Bash 中使用未加引號的 `.\training_outputs\...`，反斜線會被解讀為跳脫字元。
-
-大多數產生新資料夾的指令都拒絕覆寫。下方指定的輸出名稱若已存在，請換新名稱；不要為了重跑而刪除原始資料或舊結果。
 
 ## 4. 使用現有資料訓練
 
@@ -115,7 +109,6 @@ python ./train_batter.py \
   --output ./training_outputs/minor50_major_pa_weighted_run1
 ```
 
-若改用其他資料，請明確指定 `--episodes` 與 `--ages`，不要只更換輸出位置。
 
 ### 目前已有的模型
 
@@ -123,18 +116,6 @@ python ./train_batter.py \
 
 [.training_outputsminor50_major_pa_weighted_run1](./.training_outputsminor50_major_pa_weighted_run1/)
 
-這是先前在 Bash 使用 Windows 路徑寫法所產生的隱藏資料夾，模型本身可正常使用。它與其他歷史訓練結果是不同批次。
-
-後續範例以變數指定這批既有模型：
-
-```bash
-MODEL_RUN='./.training_outputsminor50_major_pa_weighted_run1'
-```
-
-若使用剛重新訓練的模型，請改為其實際位置，例如：
-
-```bash
-MODEL_RUN='./training_outputs/minor50_major_pa_weighted_run1'
 ```
 
 ### 訓練輸出
@@ -203,7 +184,7 @@ python ./predict_batter_2026.py \
 4. 以共用公式建立 11 個二軍特徵。
 5. 載入四個既有主模型，只呼叫預測，不重新擬合。
 
-目前不限制國籍，也不判定正式新秀資格。未列於一軍排行榜的參考數據保持空白，**不把缺資料推定成零**。生日缺失或超齡者會明確排除；一軍打擊計數的邏輯不一致會標記，但不作為候選資格篩選。
+
 
 ### 步驟三：看預測結果
 
