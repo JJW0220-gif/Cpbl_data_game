@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">研究資料處理與模型流程</title>
+  <desc id="desc">展示2020至2025年資料篩選、二軍至一軍轉換案例、Ridge訓練與驗證，以及2026推論流程。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#51718a"/>
+    </marker>
+    <style>
+      .bg{fill:#f4f7fb}.card{fill:#fff;stroke:#d9e3ef;stroke-width:2}.train{fill:#eaf2ff;stroke:#8cb2e8;stroke-width:2}.valid{fill:#e8f6f2;stroke:#85c8b6;stroke-width:2}.infer{fill:#fff3e5;stroke:#e8b66d;stroke-width:2}.title{font:700 30px 'Segoe UI',sans-serif;fill:#17324d}.head{font:700 20px 'Segoe UI',sans-serif;fill:#17324d}.text{font:16px 'Segoe UI',sans-serif;fill:#38536c}.small{font:14px 'Segoe UI',sans-serif;fill:#60758a}.arrow{stroke:#51718a;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1100" height="760" rx="28"/>
+  <text class="title" x="52" y="60">從二軍表現到一軍指標預測</text>
+  <text class="small" x="54" y="88">歷史轉換案例建立模型；2026 資料只作推論，不參與重新訓練</text>
+
+  <rect class="card" x="55" y="120" width="455" height="120" rx="18"/>
+  <text class="head" x="82" y="158">① 歷史球季資料</text>
+  <text class="text" x="82" y="188">Rebas 一、二軍例行賽與逐場紀錄</text>
+  <text class="text" x="82" y="216">2020–2025｜球季年初年齡 ≤25 歲</text>
+
+  <rect class="card" x="590" y="120" width="455" height="120" rx="18"/>
+  <text class="head" x="617" y="158">② 建立轉換案例</text>
+  <text class="text" x="617" y="188">二軍區間 → 接續的一軍區間</text>
+  <text class="text" x="617" y="216">二軍 PA ≥50｜由基礎計數重算特徵</text>
+  <path class="arrow" d="M510 180 H580"/>
+
+  <rect class="train" x="55" y="295" width="455" height="155" rx="18"/>
+  <text class="head" x="82" y="334">③ 訓練集｜167 個案例</text>
+  <text class="text" x="82" y="366">11 項二軍特徵 → 4 個 Ridge 模型</text>
+  <text class="text" x="82" y="394">一軍 PA 加權｜訓練折內前處理</text>
+  <text class="text" x="82" y="422">訓練集內 5-fold CV 選擇 alpha</text>
+
+  <rect class="valid" x="590" y="295" width="455" height="155" rx="18"/>
+  <text class="head" x="617" y="334">④ 驗證集｜42 個案例</text>
+  <text class="text" x="617" y="366">PA 加權與等案例誤差</text>
+  <text class="text" x="617" y="394">比較訓練集平均值基準</text>
+  <text class="text" x="617" y="422">留意 22 位球員跨集合重複</text>
+  <path class="arrow" d="M280 240 V282"/>
+  <path class="arrow" d="M817 240 V282"/>
+
+  <rect class="card" x="55" y="500" width="455" height="108" rx="18"/>
+  <text class="head" x="82" y="539">⑤ 評估四項一軍目標</text>
+  <text class="text" x="82" y="572">AVG｜OBP｜SLG｜HR/PA</text>
+  <path class="arrow" d="M817 450 V480 H510"/>
+  <path class="arrow" d="M280 450 V490"/>
+
+  <rect class="infer" x="590" y="500" width="455" height="108" rx="18"/>
+  <text class="head" x="617" y="539">⑥ 2026 年推論｜95 位打者</text>
+  <text class="text" x="617" y="572">年齡 ≤25｜二軍整季 PA &gt;50</text>
+  <path class="arrow" d="M510 554 H580"/>
+
+  <rect x="55" y="647" width="990" height="66" rx="15" fill="#17324d"/>
+  <text x="82" y="675" style="font:700 17px 'Segoe UI',sans-serif;fill:#fff">解讀原則</text>
+  <text x="82" y="699" style="font:15px 'Segoe UI',sans-serif;fill:#e2edf7">2026 輸出是探索性推論，未以一軍實績評分；訓練／驗證隨機切案例不等於前瞻驗證。</text>
+</svg>

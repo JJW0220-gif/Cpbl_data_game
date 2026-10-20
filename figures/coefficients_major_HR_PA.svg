@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="790" viewBox="0 0 1100 790" role="img" aria-labelledby="title desc">
+  <title id="title">一軍 HR/PA Ridge 模型標準化係數</title>
+  <desc id="desc">展示 11 個二軍輸入特徵對一軍每打席全壘打率預測的標準化 Ridge 係數，水平軸以零為中心。</desc>
+  <defs><style>
+    .bg{fill:#f5f8fc}.title{font:700 27px 'Segoe UI',sans-serif;fill:#17324d}.sub{font:15px 'Segoe UI',sans-serif;fill:#60758a}.label{font:16px 'Segoe UI',sans-serif;fill:#29465f}.value{font:14px 'Segoe UI',sans-serif;fill:#29465f}.axis{font:13px 'Segoe UI',sans-serif;fill:#708397}.grid{stroke:#dce5ee;stroke-width:1}.zero{stroke:#526a80;stroke-width:2}.pos{fill:#347fb8}.neg{fill:#d97962}
+  </style></defs>
+  <rect class="bg" width="1100" height="790" rx="24"/>
+  <text class="title" x="46" y="48">一軍 HR/PA 模型｜標準化係數</text>
+  <text class="sub" x="47" y="75">輸入特徵增加 1 個標準差時，預測 HR/PA 的變化量；係數正負以零為基準。</text>
+  <rect class="pos" x="735" y="92" width="14" height="14" rx="3"/><text class="sub" x="756" y="104">正向</text>
+  <rect class="neg" x="820" y="92" width="14" height="14" rx="3"/><text class="sub" x="841" y="104">負向</text>
+  <line class="grid" x1="340" y1="130" x2="340" y2="690"/><line class="grid" x1="475" y1="130" x2="475" y2="690"/>
+  <line class="zero" x1="610" y1="125" x2="610" y2="700"/><line class="grid" x1="745" y1="130" x2="745" y2="690"/><line class="grid" x1="880" y1="130" x2="880" y2="690"/>
+  <text class="axis" x="319" y="720">−0.000040</text><text class="axis" x="461" y="720">−0.000020</text><text class="axis" x="605" y="720">0</text><text class="axis" x="719" y="720">+0.000020</text><text class="axis" x="855" y="720">+0.000040</text>
+  <text class="label" x="48" y="158">二軍 AVG</text><rect class="neg" x="539" y="142" width="71" height="22" rx="5"/><text class="value" x="469" y="158">−0.00001048</text>
+  <text class="label" x="48" y="207">二軍 OBP</text><rect class="neg" x="431" y="191" width="179" height="22" rx="5"/><text class="value" x="361" y="207">−0.00002633</text>
+  <text class="label" x="48" y="256">二軍 SLG</text><rect class="neg" x="585" y="240" width="25" height="22" rx="5"/><text class="value" x="515" y="256">−0.00000374</text>
+  <text class="label" x="48" y="305">二軍 OPS</text><rect class="neg" x="523" y="289" width="87" height="22" rx="5"/><text class="value" x="453" y="305">−0.00001284</text>
+  <text class="label" x="48" y="354">二軍 ISO</text><rect class="pos" x="610" y="338" width="18" height="22" rx="5"/><text class="value" x="635" y="354">+0.00000267</text>
+  <text class="label" x="48" y="403">二軍 K%</text><rect class="neg" x="512" y="387" width="98" height="22" rx="5"/><text class="value" x="442" y="403">−0.00001447</text>
+  <text class="label" x="48" y="452">二軍 BB%</text><rect class="neg" x="478" y="436" width="132" height="22" rx="5"/><text class="value" x="408" y="452">−0.00001958</text>
+  <text class="label" x="48" y="501">二軍 HR/PA</text><rect class="neg" x="551" y="485" width="59" height="22" rx="5"/><text class="value" x="481" y="501">−0.00000875</text>
+  <text class="label" x="48" y="550">二軍 HBP/PA</text><rect class="neg" x="489" y="534" width="121" height="22" rx="5"/><text class="value" x="419" y="550">−0.00001801</text>
+  <text class="label" x="48" y="599">二軍 2B/AB</text><rect class="pos" x="610" y="583" width="244" height="22" rx="5"/><text class="value" x="861" y="599">+0.00003617</text>
+  <text class="label" x="48" y="648">二軍 3B/AB</text><rect class="neg" x="502" y="632" width="108" height="22" rx="5"/><text class="value" x="432" y="648">−0.00001595</text>
+  <text class="sub" x="48" y="765">HR/PA 係數尺度很小；圖中使用獨立刻度。係數並非因果效果，不同目標模型不可直接比較長條長度。</text>
+</svg>

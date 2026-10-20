@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc">
+  <title id="title">模型 PA 加權 MAE 相對基準指數</title>
+  <desc id="desc">將 PA 加權訓練平均值基準設為100，AVG模型指數93.7，OBP 96.9，SLG 99.9，HR每打席全壘打率100.4。</desc>
+  <defs>
+    <style>
+      .bg{fill:#f4f7fb}.title{font:700 28px 'Segoe UI',sans-serif;fill:#17324d}.sub{font:15px 'Segoe UI',sans-serif;fill:#60758a}.label{font:700 18px 'Segoe UI',sans-serif;fill:#29465f}.axis{font:14px 'Segoe UI',sans-serif;fill:#6e8091}.grid{stroke:#dce5ee;stroke-width:1}.baseline{stroke:#de8b35;stroke-width:3;stroke-dasharray:8 7}.bar{fill:#3b82c4}.barbad{fill:#d77d66}.value{font:700 16px 'Segoe UI',sans-serif;fill:#17324d}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="540" rx="24"/>
+  <text class="title" x="48" y="52">驗證集：Ridge MAE 相對基準</text>
+  <text class="sub" x="49" y="80">指數 = Ridge 的 PA 加權 MAE ÷ PA 加權訓練平均值基準 MAE × 100；越低越好</text>
+  <rect x="50" y="101" width="18" height="12" rx="3" class="bar"/>
+  <text class="sub" x="77" y="112">Ridge 模型</text>
+  <line class="baseline" x1="185" y1="107" x2="220" y2="107"/>
+  <text class="sub" x="229" y="112">基準 = 100</text>
+
+  <line class="grid" x1="235" y1="145" x2="235" y2="440"/>
+  <line class="grid" x1="385" y1="145" x2="385" y2="440"/>
+  <line class="grid" x1="535" y1="145" x2="535" y2="440"/>
+  <line class="grid" x1="685" y1="145" x2="685" y2="440"/>
+  <line class="baseline" x1="835" y1="135" x2="835" y2="445"/>
+  <line class="grid" x1="895" y1="145" x2="895" y2="440"/>
+  <text class="axis" x="230" y="465">0</text>
+  <text class="axis" x="376" y="465">25</text>
+  <text class="axis" x="526" y="465">50</text>
+  <text class="axis" x="676" y="465">75</text>
+  <text class="axis" x="821" y="465">100</text>
+  <text class="axis" x="884" y="465">110</text>
+
+  <text class="label" x="55" y="188">一軍 AVG</text>
+  <rect class="bar" x="235" y="163" width="562" height="36" rx="8"/>
+  <text class="value" x="805" y="187">93.7</text>
+
+  <text class="label" x="55" y="258">一軍 OBP</text>
+  <rect class="bar" x="235" y="233" width="581" height="36" rx="8"/>
+  <text class="value" x="824" y="257">96.9</text>
+
+  <text class="label" x="55" y="328">一軍 SLG</text>
+  <rect class="bar" x="235" y="303" width="599" height="36" rx="8"/>
+  <text class="value" x="842" y="327">99.9</text>
+
+  <text class="label" x="55" y="398">一軍 HR/PA</text>
+  <rect class="barbad" x="235" y="373" width="602" height="36" rx="8"/>
+  <text class="value" x="845" y="397">100.4</text>
+
+  <text class="sub" x="55" y="504">AVG / OBP 誤差略低於基準；SLG 幾乎相同；HR/PA 略高於基準。</text>
+  <text class="sub" x="55" y="526">各目標使用自身基準正規化；此圖比較相對誤差，不比較不同指標的 MAE 絕對尺度。</text>
+</svg>

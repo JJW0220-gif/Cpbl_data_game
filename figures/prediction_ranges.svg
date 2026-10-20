@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="570" viewBox="0 0 1000 570" role="img" aria-labelledby="title desc">
+  <title id="title">2026年95位候選打者之一軍指標預測範圍</title>
+  <desc id="desc">顯示四項模型預測在95位候選打者中的最小值、中位數與最大值。每列使用自身刻度。</desc>
+  <defs>
+    <style>
+      .bg{fill:#f4f7fb}.title{font:700 28px 'Segoe UI',sans-serif;fill:#17324d}.sub{font:15px 'Segoe UI',sans-serif;fill:#60758a}.label{font:700 19px 'Segoe UI',sans-serif;fill:#29465f}.value{font:14px 'Segoe UI',sans-serif;fill:#48627a}.line{stroke:#7fa8ca;stroke-width:9;stroke-linecap:round}.dot{fill:#e1863b;stroke:#fff;stroke-width:3}.axis{stroke:#dce5ee;stroke-width:1}.legend{font:14px 'Segoe UI',sans-serif;fill:#60758a}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="570" rx="24"/>
+  <text class="title" x="48" y="52">2026 推論：95 位候選打者的預測範圍</text>
+  <text class="sub" x="49" y="80">線段為最小至最大值；橘點為中位數。各列刻度獨立，請勿以線段長度比較不同目標。</text>
+  <line x1="740" y1="107" x2="790" y2="107" class="line"/>
+  <circle cx="765" cy="107" r="8" class="dot"/>
+  <text class="legend" x="802" y="112">範圍與中位數</text>
+
+  <text class="label" x="56" y="182">一軍 AVG</text>
+  <line class="axis" x1="330" y1="178" x2="840" y2="178"/>
+  <line class="line" x1="378" y1="178" x2="817" y2="178"/>
+  <circle class="dot" cx="629" cy="178" r="10"/>
+  <text class="value" x="330" y="151">0.2146</text>
+  <text class="value" x="793" y="151">0.2503</text>
+  <text class="value" x="599" y="207">中位 0.2352</text>
+
+  <text class="label" x="56" y="282">一軍 OBP</text>
+  <line class="axis" x1="330" y1="278" x2="840" y2="278"/>
+  <line class="line" x1="350" y1="278" x2="838" y2="278"/>
+  <circle class="dot" cx="616" cy="278" r="10"/>
+  <text class="value" x="330" y="251">0.2233</text>
+  <text class="value" x="793" y="251">0.3376</text>
+  <text class="value" x="586" y="307">中位 0.2862</text>
+
+  <text class="label" x="56" y="382">一軍 SLG</text>
+  <line class="axis" x1="330" y1="378" x2="840" y2="378"/>
+  <line class="line" x1="356" y1="378" x2="836" y2="378"/>
+  <circle class="dot" cx="582" cy="378" r="10"/>
+  <text class="value" x="330" y="351">0.2921</text>
+  <text class="value" x="793" y="351">0.3361</text>
+  <text class="value" x="565" y="407">中位 0.3128</text>
+
+  <text class="label" x="56" y="482">一軍 HR/PA</text>
+  <line class="axis" x1="330" y1="478" x2="840" y2="478"/>
+  <line class="line" x1="361" y1="478" x2="825" y2="478"/>
+  <circle class="dot" cx="606" cy="478" r="10"/>
+  <text class="value" x="330" y="451">0.00762</text>
+  <text class="value" x="793" y="451">0.00790</text>
+  <text class="value" x="575" y="507">中位 0.00777</text>
+
+  <text class="sub" x="56" y="548">這是推論分布，不是預測誤差或實際一軍成績；2026 結果尚未計分。</text>
+</svg>

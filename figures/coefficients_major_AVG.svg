@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="790" viewBox="0 0 1100 790" role="img" aria-labelledby="title desc">
+  <title id="title">一軍 AVG Ridge 模型標準化係數</title>
+  <desc id="desc">展示 11 個二軍輸入特徵對一軍打擊率預測的標準化 Ridge 係數，水平軸以零為中心。</desc>
+  <defs><style>
+    .bg{fill:#f5f8fc}.title{font:700 27px 'Segoe UI',sans-serif;fill:#17324d}.sub{font:15px 'Segoe UI',sans-serif;fill:#60758a}.label{font:16px 'Segoe UI',sans-serif;fill:#29465f}.value{font:14px 'Segoe UI',sans-serif;fill:#29465f}.axis{font:13px 'Segoe UI',sans-serif;fill:#708397}.grid{stroke:#dce5ee;stroke-width:1}.zero{stroke:#526a80;stroke-width:2}.pos{fill:#347fb8}.neg{fill:#d97962}
+  </style></defs>
+  <rect class="bg" width="1100" height="790" rx="24"/>
+  <text class="title" x="46" y="48">一軍 AVG 模型｜標準化係數</text>
+  <text class="sub" x="47" y="75">輸入特徵增加 1 個標準差時，預測 AVG 的變化量；係數正負以零為基準。</text>
+  <rect class="pos" x="735" y="92" width="14" height="14" rx="3"/><text class="sub" x="756" y="104">正向</text>
+  <rect class="neg" x="820" y="92" width="14" height="14" rx="3"/><text class="sub" x="841" y="104">負向</text>
+  <line class="grid" x1="340" y1="130" x2="340" y2="690"/><line class="grid" x1="475" y1="130" x2="475" y2="690"/>
+  <line class="zero" x1="610" y1="125" x2="610" y2="700"/><line class="grid" x1="745" y1="130" x2="745" y2="690"/><line class="grid" x1="880" y1="130" x2="880" y2="690"/>
+  <text class="axis" x="327" y="720">−0.0045</text><text class="axis" x="468" y="720">−0.00225</text><text class="axis" x="605" y="720">0</text><text class="axis" x="732" y="720">+0.00225</text><text class="axis" x="865" y="720">+0.0045</text>
+  <text class="label" x="48" y="158">二軍 AVG</text><rect class="pos" x="610" y="142" width="123" height="22" rx="5"/><text class="value" x="740" y="158">+0.002056</text>
+  <text class="label" x="48" y="207">二軍 OBP</text><rect class="pos" x="610" y="191" width="46" height="22" rx="5"/><text class="value" x="663" y="207">+0.000763</text>
+  <text class="label" x="48" y="256">二軍 SLG</text><rect class="pos" x="610" y="240" width="69" height="22" rx="5"/><text class="value" x="686" y="256">+0.001142</text>
+  <text class="label" x="48" y="305">二軍 OPS</text><rect class="pos" x="610" y="289" width="67" height="22" rx="5"/><text class="value" x="684" y="305">+0.001111</text>
+  <text class="label" x="48" y="354">二軍 ISO</text><rect class="pos" x="610" y="338" width="5" height="22" rx="3"/><text class="value" x="622" y="354">+0.000077</text>
+  <text class="label" x="48" y="403">二軍 K%</text><rect class="neg" x="359" y="387" width="251" height="22" rx="5"/><text class="value" x="295" y="403">−0.004171</text>
+  <text class="label" x="48" y="452">二軍 BB%</text><rect class="neg" x="508" y="436" width="102" height="22" rx="5"/><text class="value" x="440" y="452">−0.001700</text>
+  <text class="label" x="48" y="501">二軍 HR/PA</text><rect class="neg" x="583" y="485" width="27" height="22" rx="5"/><text class="value" x="517" y="501">−0.000441</text>
+  <text class="label" x="48" y="550">二軍 HBP/PA</text><rect class="neg" x="579" y="534" width="31" height="22" rx="5"/><text class="value" x="513" y="550">−0.000514</text>
+  <text class="label" x="48" y="599">二軍 2B/AB</text><rect class="pos" x="610" y="583" width="96" height="22" rx="5"/><text class="value" x="713" y="599">+0.001602</text>
+  <text class="label" x="48" y="648">二軍 3B/AB</text><rect class="neg" x="609" y="632" width="2" height="22" rx="1"/><text class="value" x="518" y="648">−0.000017</text>
+  <text class="sub" x="48" y="765">圖中係數為模型標準化後的 Ridge 係數；非因果效果，且不同目標模型不可直接比較長條長度。</text>
+</svg>
